@@ -1,0 +1,2 @@
+MATCH (c:City {city_name: 'Kyoto'})<-[:RELATED_TO]-(a:Assessment)
+RETURN a.assessment_id AS AssessmentID, a.organisation_name AS OrganisationName, a.assessment AS Assessment

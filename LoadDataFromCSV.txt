@@ -1,0 +1,112 @@
+// Run these one at a time
+
+// Assessment Data
+LOAD CSV WITH HEADERS FROM 'file:///AssessmentData.csv' AS assessmentRow
+FIELDTERMINATOR ';'
+WITH assessmentRow
+MERGE (a:Assessment {
+  assessment_id: toInteger(coalesce(trim(assessmentRow.AssessmentID), '0')),
+  organisation_name: COALESCE(assessmentRow.OrganisationName, 'NULL'),
+  assessment: COALESCE(assessmentRow.Assessment, 'NULL'),
+  year_of_publication: COALESCE(assessmentRow.YearOfPublication, 'NULL'),
+  boundary_of_assessment: COALESCE(assessmentRow.BoundaryOfAssessment, 'NULL'),
+  access: COALESCE(assessmentRow.Access, 'NULL')
+})
+
+// City Data
+LOAD CSV WITH HEADERS FROM 'file:///CityData.csv' AS cityRow
+FIELDTERMINATOR ';'
+WITH cityRow
+MERGE (c:City {
+  city_name: COALESCE(cityRow.CityName, 'NULL'),
+  organisation_id: toInteger(coalesce(trim(cityRow.OrganisationID), '0')),
+  organisation_name: COALESCE(cityRow.OrganisationName, 'NULL'),
+  country_name: COALESCE(cityRow.CountryName, 'NULL'),
+  city_location: COALESCE(cityRow.CityLocation, 'NULL'), 
+  gcom_city: COALESCE(cityRow.GCoMCity, 'NULL'),
+  c40_city: COALESCE(cityRow.C40City, 'NULL')
+})
+
+// Create Relationship for City and Assessment based on organisation_name
+MATCH (a:Assessment), (c:City)
+WHERE a.organisation_name = c.organisation_name
+MERGE (a)-[:RELATED_TO]->(c)
+
+// Country Data
+LOAD CSV WITH HEADERS FROM 'file:///CountryData.csv' AS countryRow
+FIELDTERMINATOR ';'
+WITH countryRow
+MERGE (co:Country {
+  country_id: toInteger(coalesce(trim(countryRow.CountryID), '0')),
+  country_name: COALESCE(countryRow.CountryName, 'NULL'),
+  country_location: COALESCE(countryRow.CountryLocation, 'NULL'),
+  region_name: COALESCE(countryRow.RegionName, 'NULL')
+})
+
+// Create Relationship for City and Country based on country_name
+MATCH (c:City), (co:Country)
+WHERE c.country_name = co.country_name
+MERGE (c)-[:LOCATED_IN]->(co)
+
+// Emission Data
+LOAD CSV WITH HEADERS FROM 'file:///EmissionData.csv' AS emissionRow
+FIELDTERMINATOR ';'
+WITH emissionRow
+MERGE (e:Emission {
+  emission_id: toInteger(coalesce(trim(emissionRow.EmissionID), '0')),
+  organisation_name: COALESCE(emissionRow.OrganisationName, 'NULL'),
+  year: toInteger(coalesce(trim(emissionRow.Year), '0')),
+  total_emissions: toFloat(coalesce(trim(emissionRow.TotalEmissions), '0.0')),
+  gases_included: COALESCE(emissionRow.GasesIncluded, 'NULL'),
+  change_from_last_year: COALESCE(emissionRow.ChangeFromLastYear, 'NULL'),
+  reason_for_change: COALESCE(emissionRow.ReasonForChange, 'NULL'),
+  scope_1: toInteger(coalesce(trim(emissionRow.Scope1), '0')),
+  scope_2: toInteger(coalesce(trim(emissionRow.Scope2), '0')),
+  comments: COALESCE(emissionRow.Comments, 'NULL'),
+  GDP: COALESCE(emissionRow.GDP, 'NULL'),
+  GDP_currency: COALESCE(emissionRow.GDPCurrency, 'NULL'),
+  year_of_GDP: toInteger(coalesce(trim(emissionRow.YearOfGDP), '0')),
+  GDP_source: COALESCE(emissionRow.GDPSource, 'NULL')
+})
+
+// Create Relationship for City and Emission based on organisation_name
+MATCH (c:City), (e:Emission)
+WHERE c.organisation_name = e.organisation_name
+MERGE (c)-[:MEASURED_BY]->(e)
+
+// Population Data
+LOAD CSV WITH HEADERS FROM 'file:///PopulationData.csv' AS populationRow
+FIELDTERMINATOR ';'
+WITH populationRow
+MERGE (p:Population {
+  population_id: toInteger(coalesce(trim(populationRow.PopulationID), '0')),
+  population: toInteger(coalesce(trim(populationRow.Population), '0')),
+  population_year: COALESCE(populationRow.PopulationYear, 'NULL'),
+  organisation_name: COALESCE(populationRow.OrganisationName, 'NULL')
+})
+
+// Match cities and populations with the same organisation_name
+MATCH (c:City), (p:Population)
+WHERE c.organisation_name = p.organisation_name
+MERGE (c)-[:HAS_POPULATION]->(p)
+
+// Reduction Data
+LOAD CSV WITH HEADERS FROM 'file:///ReductionData.csv' AS reductionRow
+FIELDTERMINATOR ';'
+WITH reductionRow
+MERGE (r:Reduction {
+  reduction_id: toInteger(coalesce(reductionRow.ReductionID, '0')),
+  organisation_name: COALESCE(reductionRow.OrganisationName, 'NULL'),
+  year: toInteger(coalesce(reductionRow.Year, '0')),
+  target_reduction: toInteger(coalesce(reductionRow.TargetReduction, '0')),
+  target_date: COALESCE(reductionRow.TargetDate, 'NULL'),
+  sector: COALESCE(reductionRow.Sector, 'NULL'),
+  baseline: toInteger(coalesce(reductionRow.Baseline, '0')),
+  baseline_year: COALESCE(reductionRow.BaselineYear, 'NULL'),
+  comments: COALESCE(reductionRow.Comments, 'NULL')
+})
+
+// Match cities and reductions with the same organisation_name
+MATCH (c:City), (r:Reduction)
+WHERE c.organisation_name = r.organisation_name
+MERGE (c)-[:HAS_REDUCTION]->(r)

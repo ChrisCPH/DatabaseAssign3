@@ -1,0 +1,676 @@
+﻿CityName;OrganisationID;OrganisationName;CountryName;CityLocation;GCoMCity;C40City
+;840926;Prefeitura de Serra Talhada;Brazil;;true;false
+Shenzhen;51075;City of Shenzhen;China;POINT (113.813 22.9175);false;true
+;863190;Renca;Chile;;false;false
+Trelleborg;60236;Trelleborg Municipality;Sweden;POINT (13.1569 55.3751);true;false
+Boise;54125;City of Boise, ID;USA;;false;false
+Cincinnati;35857;City of Cincinnati, OH;USA;POINT (-84.512 39.1031);true;false
+Piraquara;850566;Prefeitura de Piraquara;Brazil;;false;false
+San Diego;35884;City of San Diego, CA;USA;POINT (-117.163 32.7175);true;false
+Milano;31173;City of Milan;Italy;POINT (9.08635 45.8026);true;true
+PeÃ±alolÃ©n;60410;Municipalidad de PeÃ±alolÃ©n;Chile;POINT (-70.5302 -33.454);true;false
+Mar del Plata;54607;Mar del Plata;Argentina;;false;false
+Braga;55334;Municipality of Braga;Portugal;POINT (-8.43821 41.5337);true;false
+Piedmont;60656;City of Piedmont, CA;USA;POINT (-122.232 37.8244);true;false
+Nashville;49335;Metropolitan Government of Nashville and Davidson County, TN;USA;POINT (-86.7816 36.1627);true;false
+Hutt City;59987;Hutt City Council;New Zealand;POINT (174.908 -41.2092);false;false
+Ville de Kinshasa;36002;Ville de Kinshasa;Democratic Republic of the Congo;POINT (15.2663 -4.44193);true;false
+Can Tho City;54396;Can Tho City;Vietname;;true;false
+Manchester;35898;Greater Manchester Combined Authority;United Kingdom;POINT (-2.15783 53.4576);true;false
+Saint Paul;50572;City of Saint Paul, MN;USA;POINT (-93.09 44.9537);true;false
+Canberra;43928;Canberra;Australia;POINT (149.124 -35.3075);true;false
+Siliguri;840122;Siliguri Municipal Corporation;India;POINT (88.4103 26.7323);true;false
+Boulder;54104;City of Boulder, CO;USA;POINT (-105.252 40.0274);true;false
+Nottingham;13506;Nottingham City Council;United Kingdom;;true;false
+Ãgueda;55325;Municipality of Ãgueda;Portugal;POINT (-8.44582 40.5753);true;false
+SÃ£o JosÃ© do Rio Preto;54614;Prefeitura da Cidade de SÃ£o JosÃ© do Rio Preto;Brazil;POINT (-49.3762 -20.8118);true;false
+Toronto;31117;City of Toronto, ON;Canada;POINT (-79.3832 43.6532);true;true
+Jakarta;31166;Jakarta City Government;Indonesia;POINT (106.865 -6.1751);true;true
+Windsor;50578;City of Windsor, ON;Canada;POINT (-83.0364 42.3149);true;false
+New Bedford;58668;City of New Bedford, MA;USA;POINT (-70.9342 41.6362);true;false
+San JosÃ©, CA;35883;City of San JosÃ©, CA;USA;POINT (-121.886 37.3382);true;false
+Palmas;54650;Prefeitura de Palmas;Brazil;POINT (-48.3243 -10.2491);true;false
+MedellÃ­n;35873;MedellÃ­n;Colombia;POINT (-75.5735 6.22729);true;true
+Santa Cruz, CA;59633;City of Santa Cruz, CA;USA;POINT (-122.031 36.9741);true;false
+Rio de Janeiro;31176;Prefeitura do Rio de Janeiro;Brazil;POINT (-43.5614 -22.9054);true;true
+West Palm Beach;55801;City of West Palm Beach, FL;USA;POINT (-80.0534 26.7153);true;false
+Athens;31149;Municipality of Athens;Greece;POINT (23.7275 37.9838);true;true
+Comas;69850;Municipalidad de Comas;Peru;POINT (-77.0667 -11.95);true;false
+Manizales;54611;Alcaldia de Manizales;Colombia;;true;false
+Ã…seda;859254;Uppvidinge Municipality;Sweden;;false;false
+Newcastle upon Tyne;13113;Newcastle City Council;United Kingdom;;true;false
+Sintra;826396;Municipality of Sintra;Portugal;POINT (-9.38811 38.7984);true;false
+St. Johnâ€™s;54027;City of St. John's, NL;Canada;;true;false
+YaoundÃ© 4;831618;YaoundÃ© 4;Cameroon;POINT (11.5167 3.8667);true;false
+Chihuahua;50375;Ayuntamiento de Chihuahua;Mexico;POINT (-106.076 28.6368);true;false
+Quezon City;54348;The Local Government of Quezon City;Philippines;POINT (120.862 15.6835);true;true
+Lilongwe;60621;Lilongwe City Council;Malawi;POINT (33.7741 -13.9626);false;false
+Bridgewater;60599;Town of Bridgewater, NS;Canada;POINT (-64.5188 44.3786);true;false
+Santiago;31180;RegiÃ³n Metropolitana de Santiago;Chile;POINT (-70.6693 -33.4489);true;true
+Durban;35863;eThekwini Municipality;South Africa;POINT (31.0218 -29.8587);true;true
+Oxford;14136;Oxford City Council;United Kingdom;;true;false
+BelÃ©n;58595;Municipalidad de BelÃ©n;Costa Rica;POINT (-84.1503 10.0035);true;false
+Stockholm;3429;City of Stockholm;Sweden;POINT (18.0686 59.3293);true;true
+Valdivia;54613;Alcaldia de Valdivia;Chile;;true;false
+Wollongong;54253;Wollongong City Council;Australia;POINT (150.893 -34.4278);true;false
+MÃ¼nster;54439;City of MÃ¼nster;Germany;;true;false
+Huddersfield;60105;Kirklees Council;United Kingdom;;true;false
+La UniÃ³n;58597;Municipalidad de La UniÃ³n;Costa Rica;POINT (-83.9833 9.91667);true;false
+Firenze;36285;City of Florence;Italy;POINT (11.2558 43.7696);true;false
+PingtungÂ County;57347;Pingtung County Government;East Asia;POINT (120.47 22.6558);false;false
+Roma;31110;City of Rome;Italy;POINT (12.2858 41.53);true;true
+la Ciudad de ParanÃ¡;54620;Gobierno Municipal de la Ciudad de ParanÃ¡;Argentina;;true;false
+MontrÃ©al;35894;Ville de Montreal, QC;Canada;POINT (-73.554 45.5087);true;true
+Portland, OR;14874;City of Portland, OR;USA;POINT (-122.682 45.52);true;true
+Madrid;31171;City of Madrid;Spain;POINT (-3.38756 40.1076);true;true
+Abidjan;36004;City of Abidjan;CÃ´te d'Ivoire;POINT (-4.0083 5.36);true;true
+Hoeje-Taastrup;58489;HÃ¸je-Taastrup Municipality;Denmark;POINT (12.2898 55.6563);true;false
+Ã‰vora;50678;Municipality of Ã‰vora;Portugal;;true;false
+Guarulhos;50387;Prefeitura de Guarulhos;Brazil;POINT (-46.5338 -23.4542);true;false
+Reading;15515;Reading Borough Council;United Kingdom;;true;false
+Salem;58871;City of Salem, MA;USA;POINT (-70.8967 42.5195);true;false
+Jeonju-si;44194;Jeonju City;Republic of Korea;;true;false
+Providencia;59167;Municipalidad de Providencia;Chile;POINT (-70.6092 -33.4313);true;false
+Greensboro;50541;City of Greensboro, NC;USA;POINT (-79.792 36.0726);true;false
+Changwon;31186;Changwon City;Republic of Korea;POINT (126.949 35.1542);true;false
+Saint John;54096;City of Saint John, NB;Canada;;false;false
+Wuhan;54289;Wuhan Municipal People's Government;China;POINT (114.325 30.6435);false;true
+Santa Catarina;840153;Municipality of Santa Catarina;Mexico;POINT (-100.458 25.6732);false;false
+Boa Vista;54706;Prefeitura Municipal de Boa Vista;Brazil;POINT (-60.6779 2.83067);true;false
+Columbia, MO;54100;City of Columbia, MO;USA;POINT (-92.3341 38.9517);true;false
+Sheffield;60069;Sheffield City Council;United Kingdom;;false;false
+New Taipei;56276;New Taipei City Government;East Asia;POINT (121.446 25.0111);true;false
+;827048;Zhenjiang Municipal People's Government;China;;false;true
+Tel Aviv-Yafo;35885;Tel Aviv-Yafo Municipality;Israel;POINT (34.7823 32.0816);false;true
+Santos;50396;Prefeitura Municipal de Santos;Brazil;POINT (-46.3289 -23.9679);true;false
+Torres Vedras;19233;Municipality of Torres Vedras;Portugal;POINT (-9.30148 38.7637);true;false
+GÃ¶teborg;42384;City of Gothenburg;Sweden;POINT (11.9328 57.7004);true;false
+Colina;60407;Municipalidad de Colina;Chile;POINT (-70.684 -33.2043);false;false
+Barcelona;1499;City of Barcelona;Spain;POINT (2.1775 41.3823);true;true
+Helsingborg;54518;City of Helsingborg;Sweden;;true;false
+Amman;54337;Greater Amman Municipality;Jordan;POINT (35.9284 31.9454);true;true
+Fremont;54124;City of Fremont, CA;USA;POINT (-121.989 37.5483);true;false
+Tangerang City;54318;Government of Tangerang City;Indonesia;;true;false
+Thunder Bay;54098;City of Thunder Bay, ON;Canada;POINT (-89.2477 48.3809);true;false
+Recife;35872;Municipality of Recife;Brazil;POINT (-34.8829 -8.05783);true;false
+Park City;14344;City of Park City, UT;USA;POINT (-111.498 40.6461);true;false
+Vantaa;60185;City of Vantaa;Finland;;true;false
+Hong Kong;31169;Government of Hong Kong Special Administrative Region;China;POINT (114.14 22.2881);true;true
+Puerto Princesa;59985;City of Puerto Princesa;Philippines;POINT (118.73 9.74069);true;false
+Oslo;14088;Oslo Municipality;Norway;POINT (10.7522 59.9139);true;true
+Miami;35870;City of Miami, FL;USA;POINT (-80.1918 25.7617);false;true
+Cambridge, MA;55800;City of Cambridge, MA;USA;POINT (-71.1057 42.3674);true;false
+Seattle;16581;City of Seattle, WA;USA;POINT (-122.332 47.6062);true;true
+Waterford;862814;South-East Region of Ireland (Kilkenny, Carlow, Wexford, and Waterford Counties);Ireland;POINT (-7.14535 52.2454);false;false
+Yeosu-si;44210;Yeosu City;Republic of Korea;;true;false
+Adelaide;32480;City of Adelaide;Australia;POINT (138.601 -34.9285);true;false
+Vitoria-Gasteiz;46470;Municipality of Vitoria-Gasteiz;Spain;POINT (-2.67 42.84);true;false
+Independencia;59166;Municipalidad de Independencia;Chile;POINT (-68.8154 -32.8421);true;false
+Moreland;54263;Merri-bek City Council;Australia;;true;false
+Middelfart;59180;Middelfart Municipality;Denmark;POINT (9.87264 55.471);true;false
+Whitby;840269;Town of Whitby, ON;Canada;;true;false
+Amsterdam;31148;Municipality of Amsterdam;Netherlands;POINT (4.89516 52.3702);true;true
+FlorianÃ³polis;50384;Prefeitura de FlorianÃ³polis;Brazil;POINT (-48.5482 -27.595);true;false
+Manhattan Beach;59653;City of Manhattan Beach, CA;USA;POINT (-118.405 33.8889);true;false
+Columbus;43910;City of Columbus, OH;USA;POINT (-82.9988 39.9612);true;false
+The Hague;43930;Municipality of The Hague;Netherlands;POINT (4.3007 52.0705);true;false
+Kyoto;49389;Kyoto City;Japan;;true;false
+Makati;54354;City Government of Makati;Philippines;POINT (121.024 14.5547);true;false
+Ottawa;43911;City of Ottawa, ON;Canada;POINT (-75.6972 45.4215);true;false
+Unley;840075;Unley City Council;Australia;POINT (138.6 -34.95);true;false
+North Vancouver;59669;City of North Vancouver, BC;Canada;POINT (-123.072 49.32);true;false
+Charlotte;43914;City of Charlotte, NC;USA;POINT (-80.8431 35.2271);true;false
+Orlando;43909;City of Orlando, FL;USA;POINT (-81.3792 28.5383);true;false
+Aarhus;54408;Aarhus Municipality;Denmark;POINT (10.1374 56.1684);true;false
+Derry;60168;Derry City & Strabane;United Kingdom;;true;false
+Belfast;841960;City of Belfast, ME;USA;POINT (-69 44.42);true;false
+Iowa City;54111;City of Iowa City, IA;USA;POINT (-91.5302 41.6611);true;false
+Delhi;31157;City of Delhi;India;POINT (77.1025 28.704);false;true
+Chapala;826209;Aipromades Lago de Chapala;Mexico;POINT (-103.191 20.2962);true;false
+Campinas;35897;Municipality of Campinas;Brazil;POINT (-47.0616 -22.9064);true;false
+Palo Alto;54119;City of Palo Alto, CA;USA;POINT (-122.143 37.4419);true;false
+Mendoza;50357;Ciudad de Mendoza;Argentina;POINT (-68.8458 -32.8894);true;false
+Addis Ababa;31146;Addis Ababa City Administration;Ethiopia;POINT (38.7544 9.02887);true;true
+Copenhagen;31009;Copenhagen Municipality;Denmark;POINT (12.5683 55.6761);true;true
+Richmond;54144;City of Yarra;Australia;;true;false
+Porto;46514;City of Porto;Portugal;POINT (-8.6291 41.1579);true;false
+Hermosillo;50361;Ayuntamiento de Hermosillo;Mexico;POINT (-110.961 29.0892);true;false
+San Francisco;31182;City of San Francisco, CA;USA;POINT (-122.419 37.7749);true;true
+Asheville;54114;City of Asheville, NC;USA;POINT (-82.5515 35.5951);false;false
+Cascais;50680;Municipality of Cascais;Portugal;POINT (-9.42229 38.697);true;false
+Pietermaritzburg;37261;City of Pietermaritzburg;South Africa;POINT (30.3794 -29.6006);true;false
+Tampico;50370;Municipalidad de Tampico;Mexico;POINT (-99.0173 19.3599);true;false
+Saanich;59572;District of Saanich, BC;Canada;POINT (123.378 48.4594);true;false
+Takoma Park;59563;City of Takoma Park, MD;USA;POINT (-77.0075 38.9779);true;false
+Mexico City;31172;Mexico City;Mexico;POINT (-99.1332 19.4326);true;true
+New Orleans;13067;City of New Orleans, LA;USA;POINT (-90.0715 29.9511);true;true
+Guadalajara;35867;Region Metropolitana de Guadalajara;Mexico;POINT (-103.35 20.6597);true;true
+San Isidro (Lima);60392;Municipalidad de San Isidro (Lima);Peru;POINT (-77.0273 -12.0977);true;false
+Buenos Aires;31155;City of Buenos Aires;Argentina;POINT (-58.3816 -34.6037);true;true
+Bangalore;35907;Bengaluru;India;POINT (77.5946 12.9716);false;true
+Tiruchirappalli;840131;Tiruchirappalli City Municipal Corporation;India;POINT (78.68 10.8);true;false
+Cupertino;64014;City of Cupertino, CA;USA;POINT (-122.032 37.323);true;false
+Murcia;54498;Municipality of Murcia;Spain;POINT (-1.00495 37.799);true;false
+Vancouver;20113;City of Vancouver, BC;Canada;POINT (-123.114 49.2612);true;true
+Petaling Jaya;54361;Petaling Jaya City Council;Malaysia;POINT (101.595 3.1279);true;false
+Iida-shi;55161;City of Iida;Japan;;false;false
+London, ON;50558;City of London, ON;Canada;POINT (-81.2497 42.9837);true;false
+Sunderland;54537;Sunderland City Council;United Kingdom;;true;false
+NiterÃ³i;57509;Prefeitura de NiterÃ³i;Brazil;POINT (-43.1184 -22.8928);true;false
+Figueira da Foz;826429;Municipality of Figueira da Foz;Portugal;POINT (-8.8576 40.1521);true;false
+Ajax, ON;60602;Town of Ajax, ON;Canada;POINT (-79.0204 43.8509);false;false
+Las Vegas;10495;City of Las Vegas, NV;USA;POINT (-115.14 36.1699);true;false
+Chicago;3203;City of Chicago, IL;USA;POINT (-87.6298 41.8781);true;true
+Curitiba;31156;Municipality of Curitiba;Brazil;POINT (-49.2647 -25.4311);true;true
+ParaÃ­so;845302;ParaÃ­so;Costa Rica;POINT (-83.8656 9.83832);true;false
+Dar es Salaam;35893;City of Dar es Salaam;United Republic of Tanzania;POINT (39.2083 -6.79235);true;true
+Lexington, MA;73530;Town of Lexington, MA;USA;POINT (-71.2269 42.4443);true;false
+St Catharines;50559;City of St Catharines, ON;Canada;POINT (-79.2469 43.1594);true;false
+Guelph;54084;City of Guelph, ON;Canada;POINT (80.25 43.55);true;false
+Newcastle;54265;City of Newcastle;Australia;;true;false
+Daegu-si;44180;Daegu Metropolitan City;Republic of Korea;;true;false
+Krakow;50235;City of KrakÃ³w;Poland;POINT (19.945 50.0647);true;false
+Calgary;35475;City of Calgary, AB;Canada;POINT (-114.071 51.0486);true;false
+Matosinhos;50669;Municipality of Matosinhos;Portugal;;true;false
+Tacoma;54026;City of Tacoma, WA;USA;POINT (-122.444 47.2529);true;false
+Uppsala;54513;Uppsala Municipality;Sweden;POINT (17.635 59.8536);true;false
+City of Sydney;31114;City of Sydney;Australia;POINT (151.207 -33.8675);true;true
+Kingston;53829;City of Kingston, ON;Canada;;true;false
+London;3422;Greater London Authority;United Kingdom;POINT (-0.07868 51.5048);true;true
+Tokyo;31111;Tokyo Metropolitan Government;Japan;POINT (139.41 35.41);true;true
+Qingdao;54290;Qingdao Municipal Government;China;POINT (120.356 36.1105);false;true
+Freetown;49367;Freetown City;Sierra Leone;POINT (-13.2317 8.4657);true;true
+York;58613;City of York Council;United Kingdom;;true;false
+Prague;15014;City of Prague;Czechia;POINT (14.4378 50.0755);true;false
+Berkeley;37241;City of Berkeley, CA;USA;;true;false
+Ciudad Madero;848145;Ciudad Madero;Mexico;POINT (-97.8362 22.2723);true;false
+Gondar;60625;Dire Dawa;Ethiopia;;true;false
+Hove;54530;City of BrightonÂ & Hove;United Kingdom;;true;false
+Mafra;832078;Municipality of Mafra;Portugal;POINT (-9.32771 38.9385);false;false
+Edmonton;43912;City of Edmonton, AB;Canada;POINT (-113.491 53.5444);true;false
+Phoenix;35874;City of Phoenix, AZ;USA;POINT (-112.074 33.4484);true;true
+Gaziantep;50203;Gaziantep Metropolitan Municipality;Turkey;;true;false
+Boston;35268;City of Boston, MA;USA;POINT (-71.0598 42.3584);true;true
+Naga;73737;City of Naga, Camarines Sur;Philippines;;true;false
+Heidelberg;31165;City of Heidelberg;Germany;POINT (8.67243 49.3988);true;true
+Pasto;54603;Alcaldia de Pasto;Colombia;POINT (-77.1641 1.12525);true;false
+Taoyuan;54395;Taoyuan City Government;East Asia;POINT (121.301 24.9931);true;false
+Dangjin-si;44299;Dangjin City;Republic of Korea;;true;false
+Kisumu;60142;City of Kisumu;Kenya;POINT (34.7679 -0.0917);true;false
+Lappeenranta;60078;City of Lappeenranta;Finland;;false;false
+Ekurhuleni;35864;Ekurhuleni Metropolitan Municipality;South Africa;POINT (28.3462 -26.1777);true;true
+Miami Beach;63999;City of Miami Beach, FL;USA;POINT (-80.13 25.7906);true;false
+Wakefield;60115;Wakefield Council;United Kingdom;POINT (-1.50369 53.6842);false;false
+Leeds;10595;Leeds City Council;United Kingdom;;true;false
+BogotÃ¡;31154;BogotÃ¡ Distrito Capital;Colombia;POINT (-74.0721 4.711);true;true
+Belo Horizonte;35848;Municipality of Belo Horizonte;Brazil;POINT (-43.9345 -19.9167);true;false
+Tainan;54386;Tainan City Government;East Asia;POINT (120.227 22.9999);true;false
+Peterborough;54088;City of Peterborough, ON;Canada;;false;false
+Treviso;36517;City of Treviso;Italy;;false;false
+Lisbon;36159;City of Lisbon;Portugal;POINT (-9.13933 38.7223);true;true
+Faro;50673;Municipality of Faro;Portugal;POINT (-7.93044 37.0194);true;false
+Reno;54128;City of Reno, NV;USA;POINT (-119.814 39.5296);true;false
+Coventry;31051;Coventry City Council;United Kingdom;POINT (-1.51217 52.4066);false;false
+Buffalo;54593;Buffalo City Metropolitan Municipality;South Africa;POINT (27.6431 32.9318);false;false
+Leicester;54529;City of Leicester;United Kingdom;POINT (-1.1333 52.6333);true;false
+Gwangmyeong-si;44205;Gwangmyeong City;Republic of Korea;;true;false
+Ljubljana;43920;City Municipality of Ljubljana;Slovenia;POINT (14.5058 46.0569);true;false
+Miraflores;60399;Municipalidad de Miraflores;Peru;POINT (-71.5366 -16.3994);true;false
+Fort Collins;54066;City of Fort Collins, CO;USA;POINT (-105.084 40.5853);true;false
+YaoundÃ© 3;831620;YaoundÃ© 3;Cameroon;POINT (11.31 3.52);true;false
+GuimarÃ£es;55324;Municipality of GuimarÃ£es;Portugal;POINT (-8.29224 41.4443);true;false
+Bristol;2185;Bristol City Council;United Kingdom;;true;false
+Gibraltar;50650;City of Gibraltar;Gibraltar;POINT (-5.35359 36.1408);true;false
+Prince George;60603;City of Prince George, BC;Canada;POINT (-122.75 53.9171);false;false
+Byron Shire;58543;Byron Shire Council;Australia;POINT (153.533 -28.6534);true;false
+Lagos;31167;City of Lagos;Nigeria;POINT (3.3792 6.52437);true;true
+Bogor;54329;Bogor City Government;Indonesia;POINT (106.806 -6.5971);true;false
+Montevideo;42388;Intendencia de Montevideo;Uruguay;POINT (-58.2987 -34.7112);true;false
+ZÃ¼rich;35449;City of ZÃ¼rich;Switzerland;POINT (8.53918 47.3686);true;false
+Arlington;55799;Arlington, VA;USA;POINT (-76.0026 37.2265);true;false
+Dundee;60113;Dundee City Council;United Kingdom;;true;false
+SÃ£o Paulo;31184;Prefeitura de SÃ£o Paulo;Brazil;POINT (-46.7382 -23.5595);true;true
+Rio Branco;51374;Prefeitura de Rio Branco;Brazil;POINT (-40.3776 -20.3338);true;false
+Istanbul;31163;Istanbul Metropolitan Municipality;Turkey;POINT (28.9784 41.0082);true;true
+JoÃ£o Pessoa;50394;Prefeitura Municipal de JoÃ£o Pessoa;Brazil;POINT (-34.8639 -7.16882);true;false
+Santa Cruz de GalÃ¡pagos;69849;Santa Cruz de GalÃ¡pagos;Ecuador;POINT (-90.42 -0.38);false;false
+Duluth;54105;City of Duluth, MN;USA;;false;false
+JISOC;826208;Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC);Mexico;POINT (-104.783 20.517);false;false
+Dakar;36032;Ville de Dakar;Senegal;POINT (-17.366 14.7645);true;true
+Boulder County;74414;Boulder County, CO;USA;POINT (-105.5 40.15);false;false
+Berlin;31153;City of Berlin;Germany;POINT (13.405 52.52);true;true
+Hue;834144;Hue City;Vietname;POINT (107.562 16.4498);true;false
+Siaya;74768;Siaya County;Kenya;POINT (34.2876 0.0572);false;false
+San Fernando;840158;City of San Fernando, La Union;Philippines;POINT (120.19 16.37);false;false
+MalmÃ¶;43940;City of MalmÃ¶;Sweden;POINT (13.0038 55.605);true;false
+Cape Town;35858;City of Cape Town;South Africa;POINT (18.4239 -33.9253);true;true
+Torino;35886;City of Turin;Italy;POINT (7.668 45.1006);true;false
+Salt Lake City;31177;Salt Lake City, UT;USA;POINT (-111.891 40.7608);true;false
+Pemba;73252;Pemba Municipality;Mozambique;POINT (40.5178 -12.9732);true;false
+Genova;36262;City of Genoa;Italy;POINT (9.31841 44.348);true;false
+Karsiyaka;841980;Karsiyaka Municipality;Turkey;POINT (27.1152 38.4596);true;false
+Philadelphia;31181;City of Philadelphia, PA;USA;POINT (-75.1638 39.9523);true;true
+ReykjavÃ­k;54459;City of ReykjavÃ­k;Iceland;POINT (-21.8174 64.1265);true;false
+Bloomington;54109;City of Bloomington, IN;USA;POINT (-86.5264 39.1653);true;false
+City of Melbourne;31109;City of Melbourne;Australia;POINT (144.967 -37.8144);true;true
+JundiaÃ­;54647;Prefeitura de JundiaÃ­;Brazil;POINT (-46.8978 -23.1857);false;false
+Playa del Carmen;57877;Playa del Carmen;Mexico;POINT (-87.0739 20.6295);true;false
+Mbabane;60640;Mbabane City Council;Eswatini;;false;false
+Kampala;44077;Kampala City;Uganda;;true;false
+Lund;54519;Lund Municipality;Sweden;;true;false
+Akureyri;59151;City of Akureyri;Iceland;POINT (-18.1262 65.6885);true;false
+Viseu;50674;Municipality of Viseu;Portugal;POINT (-7.91247 40.6566);true;false
+SÃ¶derhamn;60238;SÃ¶derhamn Municipality;Sweden;;false;false
+Grand Rapids;54034;City of Grand Rapids, MI;USA;;true;false
+South Bend;63562;City of South Bend, IN;USA;POINT (41.6754 -86.2532);true;false
+Wellington;43937;Wellington City Council;New Zealand;POINT (174.776 -41.2865);true;false
+Basel;31151;City of Basel;Switzerland;POINT (7.5928 47.5619);true;false
+Warsaw;31185;City of Warsaw;Poland;POINT (21.0122 52.2297);true;true
+La Crosse;73295;City of La Crosse, WI;USA;POINT (-91.2476 43.8166);true;false
+Sofia;43917;Capital Municipality of Sofia;Bulgaria;POINT (23.3219 42.6977);true;false
+Aspen;52897;City of Aspen, CO;USA;POINT (-106.837 39.195);true;false
+Henderson;50545;City of Henderson, NV;USA;;false;false
+Long Beach;50551;City of Long Beach, CA;USA;POINT (-118.194 33.7701);true;false
+Saskatoon;50568;City of Saskatoon, SK;Canada;POINT (-106.67 52.1332);true;false
+Santa Monica;54110;City of Santa Monica, CA;USA;POINT (-118.481 34.0219);true;false
+Klaipeda;60125;KlaipÄ—da City Municipality;Lithuania;;false;false
+Austin;1184;City of Austin, TX;USA;POINT (-97.7431 30.2672);true;true
+Frederikshavn;60577;Frederikshavn Municipality;Denmark;POINT (10.521 57.4427);true;false
+Atlanta;1093;City of Atlanta, GA;USA;POINT (-84.388 33.749);true;false
+Strasbourg;54419;City and Metropolitan Municipality of Strasbourg;France;;true;false
+Nakuru;60140;City of Nakuru;Kenya;POINT (36.08 -0.30309);true;false
+Kaohsiung;31112;Kaohsiung City Government;East Asia;POINT (120.344 22.6297);true;false
+Medford;58513;City of Medford, MA;USA;POINT (-122.876 42.3265);true;false
+Charlottesville;59545;City of Charlottesville, VA;USA;POINT (-78.4767 38.0293);true;false
+Tshwane;49360;City of Tshwane;South Africa;POINT (28.1881 -25.7461);true;true
+Tampere;54403;City of Tampere;Finland;POINT (23.761 61.4978);true;false
+Busan-si;35856;Busan Metropolitan City;Republic of Korea;;true;false
+San Antonio;43905;City of San Antonio, TX;USA;POINT (-98.4936 29.4241);true;false
+Nairobi;35913;City of Nairobi;Kenya;POINT (36.8219 -1.29206);true;true
+London;841955;Hammersmith and Fulham London Borough Council;United Kingdom;POINT (-0.25 51.5);false;false
+Beaverton;59657;City of Beaverton, OR;USA;POINT (-122.797 45.4857);true;false
+Kansas City;49330;Kansas City, MO;USA;POINT (-94.573 39.1429);false;false
+Little Rock;54030;City of Little Rock, AR;USA;POINT (-92.2896 34.7465);false;false
+Barueri;54699;Prefeitura Municipal de Barueri;Brazil;;false;false
+Glasgow;31055;Glasgow City Council;United Kingdom;POINT (-4.21278 55.8593);true;false
+Turku;50154;City of Turku;Finland;POINT (22.2666 60.4518);true;false
+Fortaleza;35865;Municipality of Fortaleza;Brazil;POINT (-48.3936 -10.7183);true;false
+Hvidovre;60433;Hvidovre Municipality;Denmark;POINT (12.4754 55.6425);true;false
+JÃ¶nkÃ¶ping;54509;JÃ¶nkÃ¶ping Municipality;Sweden;;false;false
+Flagstaff;54113;City of Flagstaff, AZ;USA;POINT (-111.631 35.1992);true;false
+Birmingham;833284;West Midlands Combined Authority;United Kingdom;;false;false
+Antananarivo;36223;Antananarivo;Madagascar;POINT (47.5237 -18.905);false;false
+Omaha;49347;City of Omaha, NE;USA;;false;false
+Birmingham;1850;Birmingham City Council;United Kingdom;;true;false
+Allentown;49346;City of Allentown, PA;USA;;false;false
+CuiabÃ¡;50386;Prefeitura de CuiabÃ¡;Brazil;POINT (-52.2663 -15.882);true;false
+BrasÃ­lia;35995;Distrito Federal (BrasÃ­lia);Brazil;POINT (-47.8822 -15.7942);true;false
+Hanoi;31158;Hanoi City;Vietname;POINT (105.815 21.0258);false;true
+Mesa;50554;City of Mesa, AZ;USA;;false;false
+Nijmegen;54478;Municipality of Nijmegen;Netherlands;POINT (5.84282 51.8449);true;false
+Broward;63941;Broward County, FL;USA;POINT (80.3659 26.1901);false;false
+Pereira;54617;Alcaldia de Pereira;Colombia;POINT (-75.6906 4.80871);true;false
+Zaragoza;46473;Municipality of Saragossa (Spain);Spain;POINT (-0.88701 41.6086);true;false
+Knoxville;54048;City of Knoxville, TN;USA;POINT (-83.9207 35.9606);true;false
+Matsuyama-shi;55181;City of Matsuyama;Japan;;false;false
+Rionegro;69968;Alcaldia de Rionegro;Colombia;POINT (-75.3739 6.15316);true;false
+Rochester;49342;City of Rochester, NY;USA;POINT (-77.6109 43.161);true;false
+Quelimane;71557;Quelimane Municipal Council;Mozambique;POINT (36.9218 -17.8503);true;false
+LuleÃ¥;60226;LuleÃ¥ Municipality;Sweden;;true;false
+Santa Marta;60381;AlcaldÃ­a Distrital de Santa Marta;Colombia;POINT (-74.2127 11.2453);false;false
+Fort Lauderdale;52896;City of Fort Lauderdale, FL;USA;;false;false
+Amarante;831674;Municipality of Amarante;Portugal;;false;false
+YaoundÃ© 6;59298;YaoundÃ© 6;Cameroon;POINT (11.5191 3.86181);true;false
+Lucca;36477;City of Lucca;Italy;POINT (10.6174 43.8399);true;false
+Santiago de Guayaquil;36045;Santiago de Guayaquil;Ecuador;POINT (-79.9223 -2.17099);true;false
+Boynton Beach;74594;City of Boynton Beach, FL;USA;POINT (-80.216 26.4986);true;false
+Somerville;58531;City of Somerville, MA;USA;POINT (-71.0826 42.3934);true;false
+Indianapolis;43907;City of Indianapolis, IN;USA;POINT (-86.1785 39.7676);true;false
+Baltimore;35853;City of Baltimore, MD;USA;POINT (-76.6122 39.2904);true;false
+Breckenridge;74418;Town of Breckenridge, CO;USA;POINT (106.038 39.4817);false;false
+Fukuoka;36218;Fukuoka City;Japan;;false;false
+Santiago;60393;Municipalidad de Santiago;Chile;POINT (-70.6483 -33.4569);true;false
+Milano;854042;Metropolitan Municipality of Milan;Italy;POINT (9.18846 45.4717);false;false
+Cuenca;54637;AlcaldÃ­a de Cuenca;Ecuador;POINT (-79.0048 -2.90841);true;false
+HelsingÃ¸r;58671;HelsingÃ¸r Municipality;Denmark;POINT (12.5921 56.0308);true;false
+Blackpool;60102;Blackpool Council;United Kingdom;;false;false
+Arequipa;50368;Municipalidad de Provincial de Arequipa;Peru;POINT (-75.329 -11.0557);true;false
+Alba-Iulia;60588;City of Alba Iulia;Romania;POINT (23.569 46.0823);true;false
+Taichung;54389;Taichung City Government;East Asia;POINT (120.647 24.1619);true;false
+Fayetteville;53959;City of Fayetteville, AR;USA;POINT (-94.1719 36.0821);false;false
+Monaco;50792;City-State of Monaco;Monaco;POINT (7.42081 43.7374);false;false
+Santa Rosa;60007;City of Santa Rosa;Philippines;POINT (121.089 14.2843);true;false
+Bujumbura;60633;La mairie de Bujumbura;Burundi;POINT (29.3599 -3.36137);true;false
+Lakewood;54075;City of Lakewood, CO;USA;POINT (-105.081 39.7047);true;false
+Solna;60187;City of Solna;Sweden;;false;false
+Chefchaouen;834082;City of Chefchaouen;Morocco;POINT (-5.2636 35.1688);false;false
+Chapel Hill;59588;Town of Chapel Hill, NC;USA;POINT (-79.0558 35.9132);false;false
+Zagreb;43921;City of Zagreb;Croatia;POINT (15.9819 45.815);true;false
+Easton;58590;City of Easton, PA;USA;POINT (-75.2207 40.6884);true;false
+Bucaramanga;50380;Municipio de Bucaramanga;Colombia;POINT (-73.1227 7.11034);true;false
+St. Petersburg;49172;City of St. Petersburg, FL;USA;;true;false
+Denver;32550;City of Denver, CO;USA;POINT (-104.985 39.7376);true;false
+Halifax;50543;Halifax Regional Municipality, NS;Canada;POINT (-63.5714 44.6478);true;false
+Brussels;35854;City of Brussels;Belgium;POINT (4.34878 50.8505);true;false
+MÃ©rida;50382;Municipio de MÃ©rida;Mexico;POINT (-89.5926 20.9674);true;false
+Cleveland;35859;City of Cleveland, OH;USA;POINT (-81.6944 41.4993);true;false
+Lima;31170;Metropolitan Municipality of Lima;Peru;POINT (-77.0283 -12.0433);true;true
+Belfast;31054;Belfast City Council;United Kingdom;;false;false
+LeÃ³n de los Aldamas;50359;Gobierno Municipal de LeÃ³n de los Aldamas;Mexico;POINT (-101.684 21.1221);true;false
+Memphis;36410;City of Memphis, TN;USA;POINT (-90.049 35.1495);true;false
+Davao;54345;City Government of Davao;Philippines;POINT (125.625 7.07475);false;false
+Hamilton;50555;City of Hamilton, ON;Canada;POINT (-79.8661 43.25);true;false
+Oakland;50560;City of Oakland, CA;USA;POINT (-122.271 37.8044);true;false
+Fredensborg;63543;Fredensborg Municipality;Denmark;POINT (12.4058 55.9747);true;false
+Goyang-si;44187;Goyang City;Republic of Korea;;true;false
+Lahti;54402;City of Lahti;Finland;POINT (25.65 60.9833);true;false
+Santiago de Cali;36037;Santiago de Cali;Colombia;POINT (-76.532 3.45164);true;false
+Manta;862946;Manta;Ecuador;;true;false
+Valongo;826427;Municipality of Valongo;Portugal;POINT (-8.49835 41.1887);false;false
+Washington, DC;31090;District of Columbia, DC;USA;POINT (-77.0369 38.9072);true;true
+Auckland;43932;Auckland Council;New Zealand;POINT (174.742 -36.8153);true;true
+Chula Vista;50562;City of Chula Vista, CA;USA;POINT (-117.084 32.64);true;false
+Magdalena del Mar;43975;Municipalidad de Magdalena del Mar;Peru;POINT (-77.067 -12.0917);true;false
+Quito;42178;Distrito Metropolitano de Quito;Ecuador;POINT (-78.5167 -0.2333);true;true
+Cartagena;50374;Alcaldia Distrital de Cartagena de Indias;Colombia;POINT (-75.5264 10.4199);true;false
+Ann Arbor;54092;City of Ann Arbor, MI;USA;POINT (-83.743 42.2808);true;false
+ROUEN Cedex;62171;Metropolitan Municipality of Rouen;France;;false;false
+Winston-Salem;52894;City of Winston-Salem, NC;USA;POINT (-80.2442 36.0999);false;false
+Reigate;862520;Surrey County Council;United Kingdom;;false;false
+Lima;840018;Municipalidad Distrital de Ate;Peru;POINT (-76.8773 -12.0327);true;false
+Cardiff;31052;City of Cardiff;United Kingdom;POINT (-3.17909 51.4816);true;false
+VÃ¤stervik Municipality;69824;VÃ¤stervik Municipality;Sweden;POINT (16.3484 57.9587);false;false
+VÃ¤xjÃ¶;60216;VÃ¤xjÃ¶ Municipality;Sweden;POINT (14.8091 56.8777);true;false
+Sacramento;35878;City of Sacramento, CA;USA;POINT (-121.494 38.5816);false;false
+Honolulu;49339;City and County of Honolulu, HI;USA;POINT (157.59 21.28);true;false
+Mannheim;43926;City of Mannheim;Germany;POINT (8.46603 49.4875);true;false
+Canoas;55372;Prefeitura Municipal de Canoas;Brazil;POINT (-51.1862 -29.9133);true;false
+Gwangju-si;44181;Gwangju Metropolitan City;Republic of Korea;;true;false
+Houston;31108;City of Houston, TX;USA;POINT (-95.3694 29.7602);true;true
+Bangkok;31150;Bangkok Metropolitan Administration;Thailand;POINT (100.556 13.7712);true;true
+Trondheim;54488;Trondheim Municipality;Norway;POINT (10.395 63.4305);true;false
+Ugu;54559;Ugu District Municipality;South Africa;POINT (30.2513 -30.6218);false;false
+Abasan Al-Kabira;63616;Abasan Al-Kabira Municipality;State of Palestine;POINT (34.344 31.3231);true;false
+Albany;54102;City of Albany, NY;USA;POINT (-73.7562 42.6526);true;false
+Bournemouth;54521;BCP Council;United Kingdom;POINT (-1.88076 50.7192);true;false
+Milwaukee;43908;City of Milwaukee, WI;USA;POINT (-87.9065 43.0389);true;false
+ApuÃ­;840076;Prefeitura de ApuÃ­;Brazil;POINT (-69.14 1.22);false;false
+Norwich;60108;Norwich City Council;United Kingdom;POINT (1.2974 52.6309);false;false
+Yokohama;31113;City of Yokohama;Japan;POINT (139.638 35.4437);true;true
+Dubuque;54116;City of Dubuque, IA;USA;POINT (-90.5071 42.5006);true;false
+Tirana;59163;Municipality of Tirana;Albania;POINT (19.8187 41.3275);true;false
+Laholm;840195;Laholm Municipality;Sweden;POINT (13.03 56.51);false;false
+Piura;54619;Municipalidad  Provincial de Piura;Peru;;true;false
+SÃ£o Leopoldo;60349;Prefeitura de SÃ£o Leopoldo;Brazil;POINT (-51.1493 -29.761);true;false
+Dakar;831615;Pikine;Senegal;POINT (-17.3997 14.7529);true;false
+Los Angeles;10894;City of Los Angeles, CA;USA;POINT (-118.244 34.0522);true;true
+Arendal;60229;Arendal Municipality;Norway;POINT (8.77245 58.4618);true;false
+Shoreline;74568;City of Shoreline, WA;USA;;false;false
+Quebec;49326;Ville de Quebec, QC;Canada;;false;false
+Abidjan;73413;Commune de Cocody;CÃ´te d'Ivoire;POINT (-4.00331 5.33369);true;false
+Ulsan-si;44184;Ulsan Metropolitan City;Republic of Korea;;true;false
+Dubai;43938;The Executive Council, Govt of Dubai;United Arab Emirates;POINT (55.2708 25.2048);true;true
+Kuala Lumpur;54364;City of Kuala Lumpur;Malaysia;POINT (101.687 3.139);true;true
+Accra;36039;Accra Metropolitan Assembly;Ghana;POINT (-0.16819 5.56543);true;true
+New York City;3417;New York City, NY;USA;POINT (-74.0059 40.7128);true;true
+Salvador;42120;City of Salvador;Brazil;POINT (-38.5023 -12.973);true;true
+JIMAV;826207;Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV);Mexico;POINT (-104.367 19.7682);true;false
+San Borja;60391;Municipalidad de San Borja;Peru;POINT (-12.1078 -76.9989);true;false
+Cambridge;60104;Cambridge City Council;United Kingdom;POINT (0.16353 52.2077);false;false
+Taipei;31446;Taipei City Government;East Asia;POINT (121.564 25.0375);true;false
+Elva;60231;Municipality of Elva;Estonia;;false;false
+TsÃ©viÃ©;831616;Commune de TsÃ©viÃ©;Togo;POINT (1.21333 6.42611);true;false
+Suwon;44185;Suwon City;Republic of Korea;POINT (126.805 37.17);true;false
+Vicente LÃ³pez;55371;Municipalidad de Vicente LÃ³pez;Argentina;POINT (-68.833 -32.8941);true;false
+Padova;36494;City of Padua;Italy;POINT (11.8768 45.4064);true;false
+Portland;35274;City of Portland, ME;USA;POINT (-70.2553 43.6615);false;false
+Venezia;36254;City of Venice;Italy;POINT (12.3211 45.4333);true;false
+Evanston;59678;City of Evanston, IL;USA;POINT (-87.6898 42.0669);true;false
+Maputo;43935;Maputo Metropolitan Area;Mozambique;;true;false
+Tempe;53921;City of Tempe, AZ;USA;POINT (-111.94 33.4255);true;false
+Mississauga;59538;City of Mississauga, ON;Canada;POINT (43.589 -79.6441);true;false
+Eau Claire;834083;City of Eau Claire, WI;USA;;true;false
+Worcester;53899;City of Worcester, MA;USA;;false;false
+Rotterdam;31179;Municipality of Rotterdam;Netherlands;POINT (4.45093 51.9164);true;true
+Pittsburgh;35877;City of Pittsburgh, PA;USA;POINT (-79.9959 40.4406);true;false
+Johannesburg;31115;City of Johannesburg;South Africa;POINT (28.0473 -26.2041);true;true
+Sabaneta;73687;Sabaneta;Colombia;;true;false
+Edinburgh;31056;Edinburgh City Council;United Kingdom;;true;false
+Loja;69848;Municipio de Loja;Ecuador;POINT (-3.99313 -79.2042);true;false
+Chennai;35905;Corporation of Chennai;India;POINT (80.2425 13.0992);false;true
+Paris;31175;City of Paris;France;POINT (2.35222 48.8566);true;true
+Ahmedabad;46263;Amdavad Municipal Corporation (Ahmedabad);India;;true;true
+UmeÃ¥;54510;UmeÃ¥ Municipality;Sweden;POINT (20.263 63.8258);true;false
+Piracicaba;54658;Prefeitura do MunicÃ­pio de Piracicaba;Brazil;;true;false
+Sorocaba;50383;Prefeitura de Sorocaba;Brazil;POINT (-47.4221 -23.4775);true;false
+Walvis Bay;60638;Walvis Bay Municipality;Namibia;POINT (12.5247 -22.9389);true;false
+Iskandar;54388;Iskandar Regional Development Authority;Malaysia;POINT (100.992 1.45556);true;false
+Santa Fe County;74531;Santa Fe County, NM;USA;POINT (-106 35.5);false;false
+Dallas;35860;City of Dallas, TX;USA;POINT (-96.8004 32.7801);false;false
+Tallinn;36152;City of Tallinn;Estonia;POINT (24.7536 59.437);true;false
+Alexandria;53931;City of Alexandria, VA;USA;;false;false
+Sudbury;54060;City of Greater Sudbury / Grand Sudbury, ON;Canada;POINT (-80.9645 46.5268);false;false
+Seoul;31187;Seoul Metropolitan Government;Republic of Korea;POINT (126.978 37.5665);true;true
+Ansan-si;44191;Ansan City;Republic of Korea;;true;false
+Mumbai;31178;City of Mumbai;India;;true;true
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

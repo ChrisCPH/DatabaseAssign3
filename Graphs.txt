@@ -1,0 +1,37 @@
+// Assessment
+MATCH (assessment:Assessment) RETURN assessment
+
+// City
+MATCH (city:City) RETURN city
+
+// Country
+MATCH (country:Country) RETURN country
+
+// Emission
+MATCH (emission:Emission) RETURN emission
+
+// Population
+MATCH (population:Population) RETURN population
+
+// Reduction
+MATCH (reduction:Reduction) RETURN reduction
+
+// Match Assessments and their related Cities
+MATCH (a:Assessment)-[:RELATED_TO]->(c:City)
+RETURN a, c
+
+// Match Cities and their located Country
+MATCH (c:City)-[:LOCATED_IN]->(co:Country)
+RETURN c, co
+
+// Match Cities and their measured Emissions
+MATCH (c:City)-[:MEASURED_BY]->(e:Emission)
+RETURN c, e
+
+// Match Cities and their associated Populations
+MATCH (c:City)-[:HAS_POPULATION]->(p:Population)
+RETURN c, p
+
+// Match Cities and their associated Reductions
+MATCH (c:City)-[:HAS_REDUCTION]->(r:Reduction)
+RETURN c, r

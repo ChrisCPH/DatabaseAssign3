@@ -1,0 +1,104 @@
+﻿[
+  {
+    "CityName": "Salvador",
+    "Emissions2016": 3698964.0,
+    "Emissions2017": 3661647.0,
+    "EmissionsDecrease": -37317.0
+  },
+  {
+    "CityName": "Piedmont",
+    "Emissions2016": 43442.0,
+    "Emissions2017": 0.0,
+    "EmissionsDecrease": -43442.0
+  },
+  {
+    "CityName": "Porto",
+    "Emissions2016": 1020000.0,
+    "Emissions2017": 960656.0,
+    "EmissionsDecrease": -59344.0
+  },
+  {
+    "CityName": "London",
+    "Emissions2016": 40190000.0,
+    "Emissions2017": 40096000.0,
+    "EmissionsDecrease": -94000.0
+  },
+  {
+    "CityName": "Cardiff",
+    "Emissions2016": 2128000.0,
+    "Emissions2017": 1959900.0,
+    "EmissionsDecrease": -168100.0
+  },
+  {
+    "CityName": "Turku",
+    "Emissions2016": 1107500.0,
+    "Emissions2017": 840800.0,
+    "EmissionsDecrease": -266700.0
+  },
+  {
+    "CityName": "Wellington",
+    "Emissions2016": 1084979.0,
+    "Emissions2017": 773061.0,
+    "EmissionsDecrease": -311918.0
+  },
+  {
+    "CityName": "FlorianÃ³polis",
+    "Emissions2016": 1450465.0,
+    "Emissions2017": 740635.0,
+    "EmissionsDecrease": -709830.0
+  },
+  {
+    "CityName": "Stockholm",
+    "Emissions2016": 2511000.0,
+    "Emissions2017": 1796590.0,
+    "EmissionsDecrease": -714410.0
+  },
+  {
+    "CityName": "Makati",
+    "Emissions2016": 1660370.0,
+    "Emissions2017": 462586.0,
+    "EmissionsDecrease": -1197784.0
+  },
+  {
+    "CityName": "Cape Town",
+    "Emissions2016": 22643846.0,
+    "Emissions2017": 21233880.0,
+    "EmissionsDecrease": -1409966.0
+  },
+  {
+    "CityName": "Yokohama",
+    "Emissions2016": 21950000.0,
+    "Emissions2017": 20375000.0,
+    "EmissionsDecrease": -1575000.0
+  },
+  {
+    "CityName": "Auckland",
+    "Emissions2016": 10472155.0,
+    "Emissions2017": 8388416.0,
+    "EmissionsDecrease": -2083739.0
+  },
+  {
+    "CityName": "Taipei",
+    "Emissions2016": 14957404.0,
+    "Emissions2017": 12114538.0,
+    "EmissionsDecrease": -2842866.0
+  },
+  {
+    "CityName": "Rio de Janeiro",
+    "Emissions2016": 20268045.0,
+    "Emissions2017": 17006642.0,
+    "EmissionsDecrease": -3261403.0
+  },
+  {
+    "CityName": "Buenos Aires",
+    "Emissions2016": 19667128.0,
+    "Emissions2017": 13193864.0,
+    "EmissionsDecrease": -6473264.0
+  },
+  {
+    "CityName": "Kaohsiung",
+    "Emissions2016": 58755764.13,
+    "Emissions2017": 0.0,
+    "EmissionsDecrease": -58755764.13
+  }
+]

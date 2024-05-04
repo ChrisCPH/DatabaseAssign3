@@ -1,0 +1,10 @@
+1. What is the total emissions on any given city?
+2. Is the city a part of GCoM of C40?
+3. Which city had the highest total emissions?
+4. Does the city have an assessment plan?
+5. Does the city with the highest population also have the highest emissions?
+6. What is the difference in total emissions for 2016 and 2017?
+7. Which cities have the highest reduction targets?
+8. What are the key attributes and relationships of a specific city node?
+9. Which cities are not a part of GCoM or C40?
+10. Which cities had higher emissions in 2016 compared to 2017?

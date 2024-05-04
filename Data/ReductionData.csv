@@ -1,0 +1,781 @@
+﻿ReductionID;OrganisationName;Year;TargetReduction;TargetDate;Sector;Baseline;BaselineYear;Comments
+1;Odder Kommune;2016;2;;Total;6136;2010;
+2;Comune di Napoli;2016;25;2020;Total;2913434;2005;
+3;Egedal Municipality;2016;7;2020;Total;268000;2009;The municipality are increasing in terms of citizens, business, buldings,highways etc.
+4;Yilan County;2016;35;2020;Total;3804493;2009;
+5;City of Emeryville CA;2016;40;2030;Total;178832;2004;
+6;City of Emeryville CA;2016;80;2050;Total;178832;2004;
+7;CommunautÃ© urbaine du Grand Nancy;2016;20;2020;Total;1700000;1990;
+8;Aarhus Kommune;2016;100;2030;Total;2100000;2008;
+9;Amiens MÃ©tropole;2016;20;2020;;630000;2012;
+10;Ayuntamiento de Murcia;2016;20;2020;Total;2141272;2007;DATA IN CO2 (NOT CO2e)
+11;City of Atlanta;2016;80;2020;Waste;800000;2009;Reevaluation of recycling curbing and educational programs with public and private sector
+12;Barreiro;2016;20;2020;Other;347987;2008;There is a difference between the amount of CO2 emissions presented in SEAP and this table due to a change in the calculation methodology.
+13;Birmingham City Council;2016;60;2027;Total;6874000;1990;This is in line with national carbon budget periods
+14;City of Ã†rÃ¸skÃ¸bing;2016;10;;Total;;2015;
+15;City of Akureyri;2016;40;2030;Total;;1990;
+16;City of Bournemouth;2016;30;2020;Total;1075590;2005;The 2005 baseline emissions are 5.7tCO2e per person.  The target for 2020 is 3.99 tonnes CO2e per person. The outturn figure for 2013 was 4.1 tonnes of CO2 per person.
+17;City of Cardiff;2016;26;2020;Total;2667000;2005;This 26% reduction target is for per capita emissions (NB Cardiff is the UKs fastest growing city).  The per capita carbon emissions were 8.3 tonnes in 2005 and are 6.1 in 2013, demonstrating a 27% reduction in per capita emissions.  (The reduction in absolute emissions from 2005 to 2013 is 20%)
+18;City of Helsinki;2016;30;2020;Total;3615000;1990;City Council Strategy 2013-2016
+19;City of Helsinki;2016;39;2030;Total;3615000;1990;Climate strategy for the metropolitan area. Target achieved in 2014.
+20;City of Helsinki;2016;20;2020;Total;3615000;1990;City's energy policy lines, Covenant of Mayors. Target achieved in 2013.
+21;City of Lahti;2016;35;2020;Buildings;747000;1990;In the City strategy: -50% by 2015 (from 1990 level)
+22;City of Leicester;2016;50;2025;Other;2388300;1990;Transport, domestic electricity and gas use, and industrial electricity and gas use
+23;City of Lisbon;2016;20;2020;Other;3887013;2002;
+24;City of Porto;2016;45;2020;Total;1300000;2004;Sustainable Energy Action Plan reduction target. Reductions from action at a local level (demand management) and national level (supply management).
+25;City of ReykjavÃ­k;2016;35;2020;Total;339990;2007;
+26;City of ReykjavÃ­k;2016;73;2050;Total;339990;2007;
+27;City of Turku;2016;100;2040;Total;1107500;2013;In 2014 ambitious target was set by the city council, which aims to make Turku carbon-neutral by 2040.
+28;City of Wroclaw;2016;21;2020;Total;6988259;1990;
+29;City of Zaragoza;2016;20;2020;Other;1237553;2010;
+30;Comune di Bologna;2016;21;2020;Other;2288510;2005;4%  reduction obetained at  the end of 2010
+31;Comune di Bolzano;2016;23;2020;Total;520715;2010;
+32;Comune di Ferrara;2016;25.5;2020;Total;1582605.13;2007;
+33;Comune di Genova;2016;23;2020;Other;2215759;2005;
+34;Comune di Padova;2016;20;2020;Total;1892158;2005;In addition to the emission-reducing activities mentioned below, the emission-reducing activities on local government level are part of the total reduction aim of 20%.
+35;City of Ann Arbor;2016;80;2050;;;2000;
+36;Comune di Piacenza;2016;20.4;2020;;263270;1990;"The emission reduction is calculated with respect to the reference scenario (BAU) in 2020.					
+Were considered only CO2 emissions related to the areas of competence of the Municipality of Piacenza."
+37;Comune di Ravenna;2016;23.9;2020;Total;1683317.65;2007;This target is related to CO2 emission and was set in the Covenant of Mayors. The target is applied to the whole CO2 emissions including together Local Government Operations and Community.
+38;Comune di Udine;2016;20;2020;Total;692479;2006;
+39;Dublin City Council;2016;20;2020;Total;5054000;2006;
+40;Free and Hanseatic City of Hamburg;2016;80;2050;Total;20727000;1990;
+41;Free and Hanseatic City of Hamburg;2016;50;2030;Total;20727000;1990;
+42;City of Stockholm;2016;100;2040;Other;3668000;1990;Roadmap to a Fossil free-fuel Stockholm 2050 (being updated to 2040) according to Stockhom City's budget.
+43;Funchal;2016;20;2020;Total;515593;2010;The Municipality is a member of the Covenant of Mayors, an european compromise to reduce the CO2 levels in 20%.
+44;GdaÅ„sk;2016;21;2020;Total;3551302;2013;
+45;Gladsaxe Kommune;2016;20;2020;Total;499740;2007;
+46;Glasgow City Council;2016;30;2020;;39873000;2006;
+47;Greater Manchester;2016;48;2020;Total;21200000;1990;"See Climate Change and Low Emission Strategiesâ€™					
+Whole Place Implementation Plan for Greater Manchester					
+(2016-2020) (attached for detailed actions."
+48;Hoeje-Taastrup Kommune;2016;98;2050;Total;310000;2012;"until 2020 3 % reduction per year					
+2035 Fossil free electricity and heating supply					
+2050 Fossil free electricity and heating supply and the transport sector					
+2050 98 % reduction (baseline 2012)"
+49;HÃ¸rsholm Kommune;2016;20;2020;Total;182657;2010;
+50;Landeshauptstadt Magdeburg;2016;95;2050;Total;3955000;1990;"GHG sources to					
+which the target applies:					
+CO2-City-wide					
+					
+Solutions of the municipal council"
+51;Landeshauptstadt Magdeburg;2016;86;2050;Total;1406000;2012;"GHG sources to					
+which the target applies:					
+CO2-City-wide					
+					
+Solutions of the municipal council"
+52;MunicÃ­pio de Moita;2016;20;2020;Total;15177;2008;
+53;Sonderborg Kommune;2016;25;2015;Total;180500;2007;
+54;Sonderborg Kommune;2016;50;2020;Total;361000;2007;
+55;Sonderborg Kommune;2016;100;2029;;722000;2007;
+56;City of Ann Arbor;2016;25;2025;;;2000;
+57;Stadt ZÃ¼rich;2016;28;2020;Other;;2005;"The baseline emission and the target emission are measured in tonnes CO2e per person per year.				
+					
+Target for 2050: 1.0 tonnes CO2e per person (18% of 2005)					
+Target for 2035: 2.5 tonnes CO2e per person (45% of 2005)					
+Target for 2020: 4.0 tonnes CO2e per person (72% of 2005)"
+58;Stadt ZÃ¼rich;2016;55;2035;;;2005;
+59;Stadt ZÃ¼rich;2016;82;2050;;;2005;
+60;City of Oslo;2016;95;2030;Total;1200000;1991;With a new City government in office from september 2015, the GHG-target was expedited from 2050 to 2030.
+61;TarnÃ³w;2016;8.46;2020;Total;20232;2013;Data based on plan mentioned in 7.1. a - row 3
+62;Tbilisi City;2016;24;2020;;;2010;
+63;The Hague;2016;30;2020;Other: Domestic buildings, industry and other businesses (including non-domestic buildings), traffic and waste treatment.;2499;1990;
+64;The Hague;2016;100;2040;Other: Domestic buildings, industry and other businesses (including non-domestic buildings), traffic and waste treatment.;2499;1990;
+65;City of Minneapolis;2016;15;2015;Total;5700000;2006;
+66;Torres Vedras Municipality;2016;29;2020;Total;268064;2009;Torres Vedras SEAP is an integrated plan to reduce emissions of the community and local government operations, the amount provided for emission reduction is a global value. In the plan are set 61 actions for the community and the local government operations.
+67;Village of Kadiovacik;2016;4;2016;Total;467.45;2014;
+68;Ville de Lausanne;2016;20;2020;Other: Energy and mobility;585531;2005;already reached
+69;Ville de Monaco;2016;30;2020;;107940;1990;Kyoto Protocol - Second period
+70;Ville de Monaco;2016;22;2020;;107940;1990;Kyoto Protocol - QUELRO 2012-2020
+71;City of Gdynia;2016;20;2020;Total;;;Gdynia has the Low Emission Economy Plan 2015-2020. Up to 2020 Gdynia declared to reduce the emission of CO2 by 20%, to reduce the consumption of  the final energy by 28% and to increase power installed renewable energy sources by 14 MW.
+72;Ayuntamiento de Madrid;2016;35;2020;Total;11527000;2005;
+73;Ayuntamiento de Madrid;2016;20;2020;Total;12653000;1990;
+74;Ayuntamiento de Madrid;2016;20;2020;Transport;2367000;2011;
+75;Basel-Stadt;2016;20;2020;Total;1108030;1990;Swiss federal law CO2
+76;Basel-Stadt;2016;100;2030;Total;;2008;http://www.2000-watt.bs.ch/en/pilotregion_basel- 2/schwerpunkt-bauen/klimaneutrale-verwaltung.htm
+77;City of Amsterdam;2016;40;2025;Total;3417000;1990;
+78;City of Amsterdam;2016;75;2040;Total;3417000;1990;
+79;City of Cape Town;2016;13;2020;Total;20550172;2012;The targets are set s in the Cityâ€™s Energy and Climate Action Plan (ECAP) and is currently being reviewed and updated as part of the Cityâ€™s Energy 2040 vision and ECAP update process, to be finalised by end 2015. Updated targets will be provided in the 2016 CDP submission. Current electricity consumption levels city-wide are below 2007 levels.
+80;City of Copenhagen;2016;20;2015;Total;2541000;2005;
+81;City of Copenhagen;2016;100;2025;Total;2240000;2010;
+82;City of Los Angeles;2016;45;2025;Total;36200000;1990;
+83;City of Durban;2016;24.5;2020;Total;21413906;2006;The target of 24.5% is articulated in the municipal energy strategy (2008). However, a climate change adaptation and mitigation strategy for the city is currently being developed which will revise these targets to align with the national climate change policy.
+84;City of Johannesburg;2016;40;2040;Total;27000000;2007;
+85;City of Oslo;2016;50;2020;Total;1200000;1991;With a new City government in office from september 2015, the GHG-target was expedited from 2030 to 2020.
+86;City of Paris;2016;25;2020;Total;25000000;2004;To respect the European objectives by 2020 and to decrease overall emissions by 75% in 2050 compared with 2004
+87;City of Paris;2016;75;2050;Total;25000000;2004;
+88;City of Paris;2016;40;2030;Total;6200000;2004;Signed agreement on Act2 of Covenant of Mayors
+89;City of Stockholm;2016;24;2020;Other;3668000;1990;Stockholm has a goal that by 2020 our GHG per capita should be down to 2,3 ton 2020 per person.
+90;City of Minneapolis;2016;30;2020;Total;5700000;2006;2025 target date
+91;City of Warsaw;2016;20;2020;Total;12952984;2007;The sectors included in the emissions reduction target include buildings, transport and other sectors but not waste.
+92;Comune di Milano;2016;20;2020;Total;7418;2005;
+93;Comune di Venezia;2016;29.1;2020;Buildings;512859;2005;"SEAP action ""free-01 - extimated CO2 reduction by 2020:    1072t""					
+SEAP action ""free-02 - extimated CO2 reduction by 2020:      292t""					
+SEAP action ""free-06 - extimated CO2 reduction by 2020:      997t""					
+SEAP action ""free-07 - extimated CO2 reduction by 2020: 22946t""					
+SEAP action ""free-08 - extimated CO2 reduction by 2020:    4347t""					
+SEAP action ""free-09 - extimated CO2 reduction by 2020:         97t""					
+SEAP action ""free-10 - extimated CO2 reduction by 2020:       772t""					
+SEAP action ""free-11 - extimated CO2 reduction by 2020:       132t""					
+SEAP action ""free-12 -extimated CO2 reduction by 2020:        166t""					
+SEAP action ""free-13 - extimated CO2 reduction by 2020:       477t""					
+SEAP action ""free-14 [1/2]- extimated CO2 reduction by 2020:  13702t""					
+SEAP action ""free-15 - extimated CO2 reduction by 2020:     3941t""					
+SEAP action ""free-16 - extimated CO2 reduction by 2020:   19020t""					
+SEAP action ""free-17 - extimated CO2 reduction by 2020:        168t""					
+SEAP action ""pure-03 - extimated CO2 reduction by 2020:  38238t""					
+total extimated CO2 reduction by 2020: 106367t"""
+94;Comune di Venezia;2016;13.1;2020;Buildings;524145;2005;"SEAP action ""free-14 [1/2] - extimated CO2 reduction by 2020: 13704t""					
+SEAP action ""pure-02 - extimated CO2 reduction by 2020:        55314t""					
+total extimated CO2 reduction by 2020: 69018t"""
+95;Comune di Venezia;2016;39.2;2020;Transport;381340;2005;"SEAP action ""move-01 - extimated CO2 reduction by 2020: 17022t""					
+SEAP action ""move-02 - extimated CO2 reduction by 2020:   7081t""					
+SEAP action ""move-03 - extimated CO2 reduction by 2020:   3559t""					
+SEAP action ""move-04 - extimated CO2 reduction by 2020:        62t""					
+SEAP action ""move-05 - extimated CO2 reduction by 2020:   3418t""					
+SEAP action ""move-06 - extimated CO2 reduction by 2020: 18844t""					
+SEAP action ""move-07 - extimated CO2 reduction by 2020:   2431t""					
+SEAP action ""move-08 - extimated CO2 reduction by 2020: 96412t""					
+SEAP action ""move-09 - extimated CO2 reduction by 2020:     600t""					
+SEAP action ""move-10 - extimated CO2 reduction by 2020:       37t""					
+SEAP action ""move-14 - extimated CO2 reduction by 2020:       68t""					
+total extimated CO2 reduction by 2020: 149534t"""
+96;Comune di Venezia;2016;22.9;2020;Total;1418344;2005;The expected reduction for Tertiary+Residential+Private and Commercial transport is: 324.919t
+97;Greater London Authority;2016;80;2050;Other;45000000;1990;Interim targets are also in place for 2025
+98;Roma Capitale;2016;23;2020;Transport;4174937;2003;
+99;Roma Capitale;2016;15;2020;Buildings;3593877;2003;
+100;City of St Louis;2016;80;2050;Total;7972916;2005;
+101;Roma Capitale;2016;0;2020;Other:;3230703;2003;Emission for tertiary are forecasted increasing of 18%
+102;City of Albany;2016;10;2030;Buildings;903226;2009;
+103;City of Albany;2016;20;2030;Transport;276097;2009;
+104;City of Albany;2016;10;2030;Waste;13797;2009;
+105;City of Arlington VA;2016;76;2050;Total;2668991;2007;Arlington's community GHG emissions reduction target is to reach 3.0 metric tonnes CO2e per capita by 2050, from a 2007 baseline of 13.4 mt/capita.
+106;City of Aspen and Pitkin County;2016;30;2020;Other;762829;2004;
+107;City of Aspen and Pitkin County;2016;80;2050;Other;762829;2004;
+108;City of Atlanta;2016;20;2020;Buildings;5356727;2009;Benchmarking and retrofits for buildings larger than 25,000 soft
+109;City of Atlanta;2016;20;2020;Transport;2300000;2009;Sharing mobility strategies, TOD, and parking strategies
+110;City of Aurora CO;2016;10;2025;Total;4641240;2007;Buckley Air Force Base not included. Methodology developed by University of Colorado Denver
+111;City of Baltimore;2016;15;2020;Other;7579144;2010;"Key findings by sector provide guidance for where strategies can perhaps slow future emissions growth.					
+â€¢ GHG emissions from the energy sector are anticipated					
+to increase slightly from 79.5 percent (2010) to 79.9					
+percent (2020).					
+â€¢ The transportation-related emissions are anticipated					
+to decrease from 15.6 percent (2010) to 15.2 percent					
+(2020).					
+â€¢ The waste-related emissions are anticipated to remain					
+unchanged at 2.8 percent.					
+â€¢ Wastewater treatment GHG emissions are expected to					
+remain unchanged at 1.5 percent.					
+â€¢ GHG emissions from the water sector are anticipated					
+to remain unchanged at 0.7 percent.					
+All GHG emissions have been calculated and presented in					
+metric tons of carbon dioxide equivalent emissions per year					
+(MT CO2e/yr)."
+112;City of Bellingham WA;2016;7;2012;Total;862545.1;2000;
+113;City of Benicia;2016;10;2020;Total;487035;2000;
+114;City of Boulder;2016;80;2050;Total;1943165;2005;Interim targets under development.
+115;City of Hamilton;2016;20;2020;Total;23351712;2006;Targets achieved in 2011.
+116;City of Hamilton;2016;50;2030;Total;23351712;2006;Targets set in 2015 to follow Corporate targets and community request under Community Climate Change Action Plan 2015
+117;City of Burlington;2016;20;2020;Total;401996;2007;"Reduction Goals					
+					
+Subsequent to the completion of the 2007 GHG emissions inventory, the City established the following emissions reduction targets: 					
+					
+Short-term: 					
+Reduction of 20% below 2007 levels by 2020 					
+*Equals 1.5% annual reduction until 2020 					
+					
+Long-term: 					
+Reduction of 80% below 2007 levels by 2050 					
+*Equals 2% annual reduction between 2020 and 2050 					
+					
+To achieve its 2020 goal, the City would have to reduce the emissions generated by its municipal operations by 4,657 tons of CO2 equivalent, while the community-wide emissions reduction would have to approach 86,485 tons of CO2 equivalent. These are not insignificant numbers, but if the City and community come together in working towards those same goals, we can surely achieve them. Exploration of new technologies, new financial incentives and/or financing schemes, as well as a general willingness and commitment to the implementation of this plan will bring success."
+118;City of Calgary;2016;20;2020;Total;15793731;2005;
+119;City of Calgary;2016;50;2036;Total;11871100;1990;Target was set as part of imagineCALGARY (a community-wide engagement in 2006 to set the 100-year sustainability vision for Calgary).
+120;City of Calgary;2016;80;2050;Total;15793731;2005;
+121;City of Charlotte;2016;100;2050;Total;;Other;We have a goal to be carbon neutral by 2050, and are currently working on our baseline inventory through the GPC.
+122;Halifax Regional Municipality;2016;20;2020;Total;6775289;2002;World Energy Cities Calgary Climate Accord
+123;City of Cleveland;2016;16;2020;Total;12791996;2010;This goal is science-based and designed to be bold, yet achievable.The Climate Action Plan includes details on how much each emission reduction activity contributes to the goal.
+124;City of Cleveland;2016;40;2030;Total;12791996;2010;This goal is science-based and designed to be bold, yet achievable.The Climate Action Plan includes details on how much each emission reduction activity contributes to the goal.
+125;City of Cleveland;2016;80;2050;Total;12791996;2010;This goal is science-based and designed to be bold, yet achievable. The Climate Action Plan does not include detail on how much each emission reduction activity contributes. This is more of a visionary goal.
+126;City of Columbus;2016;20;2020;Total;10695080;2013;
+127;City of Denver;2016;1;2020;Total;11800000;1990;The goal is to get to at or below 1990 level emissions by 2020
+128;City of Denver;2016;80;2050;Total;13500000;2005;Denver is utilizing a 2005 baseline for our long term goal as there were more robust data available in 2005 compared to 1990.
+129;City of Durham;2016;30;2030;Other;7091648;2006;This is for all of Durham County.
+130;City of Edmonton;2016;35;2035;Total;15862000;2005;Overall TCO2e reduction
+131;City of Eugene;2016;10;2020;Other;911965;1990;Goal does not speak to the exact emission sources targeted, but these are the primary sources called out in the 2005 inventory - so would be the assummed target GHGs
+132;City of Eugene;2016;75;2050;Other;911965;1990;Goal does not speak to the exact emission sources targeted, but these are the primary sources called out in the 2005 inventory - so would be the assummed target GHGs
+133;City of Eugene;2016;50;2030;Other;1884651;2010;Goal is silent on which fossil fuels.  This could apply to aviation fuel as well, but the target is focused on community use.
+134;City of Hamilton;2016;10;2012;Total;23351712;2006;Targets achieved in 2011.
+135;City of Santa Monica;2016;80;2050;Total;924293;1990;
+136;City of Hamilton;2016;80;2050;Total;23351712;2006;New targets set in 2013 by Council.
+137;City of Hayward;2016;20;2020;Total;1130113;2005;
+138;City of Knoxville;2016;20;2020;Total;4581171;2005;Note: For question 7.3, The City of Knoxville has not estimated anticipated reductions or measure reductions based on each emissions reduction activity.  However, the cumulative effect of past emissions reductions activities reduced residential energy consumption by 2%, commercial energy consumption by 13%, and community greenhouse gas emissions by 7.75% between 2005 and 2012.
+139;City of Lake Forest IL;2016;20;2015;Total;402364;2007;After reaching our target, our current goal is to decrease emissions 2% annually.
+140;City of Lakewood;2016;20;2025;Total;2646593;2007;
+141;City of Lakewood;2016;50;2050;Total;2646593;2007;
+142;Halifax Regional Municipality;2016;80;2050;Total;6775289;2002;World Energy Cities Calgary CLimate Accord
+143;City of London ON;2016;15;2020;Total;3250000;1990;
+144;City of London ON;2016;37;2030;Total;3250000;1990;"NOTE: London has committed to using targets consistent with the Province of Ontario's targets. In spring 2015, Ontario			
+announced this new mid-term reduction goal for a 37% reduction by 2030."
+145;City of London ON;2016;80;2050;Total;3250000;1990;
+146;City of Minneapolis;2016;80;2050;Total;5700000;2006;
+147;City of Northampton MA;2016;30;2020;Total;;2000;Primarily using fossil fuels, not GHG, as our measurement tool because we have more (albeit still very limited) data
+148;City of Oakland;2016;36;2020;Transport;1988265;2005;
+149;City of Palo Alto;2016;20;2020;Total;780119;1990;2007 goals exceeded. New goals being set this year. The City will comply with all State requirements and targets.
+150;City of Palo Alto;2016;80;2030;Total;780119;1990;
+151;City of Park City UT;2016;100;2032;Total;19590;2015;Park City has adopted a goal of Net Zero Carbon Emissions for all citywide activities by 2032. This includes Scope 1 & 2 emissions as well as air travel.
+152;City of Pittsburgh;2016;20;2025;Total;5987870;2003;In PCAP 1.0 PCI set a target of 20% below 2003 baseline by 2023. We are currently developing more ambitious and specific greenhouse gas reduction targets.
+153;City of Pittsburgh;2016;50;2030;Transport;833781;2013;
+154;City of Richmond VA;2016;80;2050;Total;3377616;2008;1.8% annually
+155;City of Sacramento;2016;15;2020;Total;4161823;2005;
+156;City of Sacramento;2016;49;2035;Total;4161823;2005;
+157;City of Sacramento;2016;83;2050;Total;4161823;2005;
+158;City of San Antonio;2016;50;2050;Total;16089575;2013;
+159;City of Santa Monica;2016;15;2015;Total;924293;1990;
+160;City of Somerville MA;2016;100;2050;Total;609565;2014;Somerville has a carbon neutrality by 2050 goal.  The exact technical definition of carbon neutrality, for accounting purposes, has not yet been finalized.
+161;City of St Louis;2016;25;2020;Total;7972916;2005;
+162;City of West Hollywood;2016;25;2035;Total;583213;2008;The target is 20-25% over 2008 levels.
+163;City of Winnipeg;2016;6;;Total;5257324;1998;No firm target date or action plan.
+164;City of Yonkers;2016;20;2020;Buildings;844276;2010;
+165;Los Altos Hills;2016;30;2025;Total;89913;2005;Not yet approved by town council. Our prior target was 30% below 2005 levels by 2015, and we achieved 15%.
+166;Town of Blacksburg;2016;80;2050;Total;422626;1990;We are undertaking an 80% reduction in community-wide emissions below 1990 levels by 2050.  The sectors for which emissions were measured were: residential, commercial, industrial, municipal and transportation.  There are strategies addressing each of these sectors in the resulting plan.  There are a handful of additional sectors that were included in the plan even though they were not part of our initial GHG inventory.  These include: food, waste & recycling, land use, and clean energy.
+167;Ville de Montreal;2016;30;2020;Total;14969534;1990;
+168;City of Austin;2016;90;2050;Total;14500000;2010;net zero by 2050
+169;City of Boston;2016;25;2020;Total;7440000;2005;
+170;City of Chicago;2016;80;2050;Total;32300000;1990;
+171;City of Chicago;2016;25;2020;Total;32300000;1990;
+172;City of Los Angeles;2016;60;2035;Total;36200000;1990;
+173;City of Los Angeles;2016;80;;Total;36200000;1990;
+174;City of Philadelphia;2016;80;2050;Total;22837228;2006;Mayor Kenney committed to an 80 by 50 goal when taking office in 2016. The Office of Sustainability will baseline and set interim goals as part of the Greenworks plan update later in 2016.
+175;City of Portland OR;2016;40;2030;Total;8989460;1990;
+176;City of Portland OR;2016;80;2050;Total;8989460;1990;
+177;City of Portland OR;2016;80;2020;Total;8989869;1990;Multnomah County
+178;City of San Francisco;2016;20;2012;Total;6201949;1990;The City of San Francisco has completed a third party emissions verification during January 2015.  The City has met it's year 2012 emission reduction target by reducing it's community-wide emissions approximately 23.3% below 1990 levels.
+179;City of San Francisco;2016;25;2017;Total;6201949;1990;
+180;City of San Francisco;2016;40;2025;Total;6201949;1990;
+181;City of San Francisco;2016;80;2050;Total;6201949;1990;
+182;City of Seattle;2016;100;2050;Total;3647000;2008;"Our long-term goals are:					
+58% reduction by 2030					
+Zero net emissions by 2050."
+183;Wellington City Council;2016;80;2050;Total;1310705;;
+184;City of Toronto;2016;80;2050;Total;27051617;1990;"6% by 2012 and 30% by 2020 below 1990 levels for the urban area	 we also baselined 2004 due to inherent inadequacy of some of the 1990 data."
+185;City of Vancouver;2016;33;2020;Total;2805000;2007;See the Greenest City Action Plan for details. Baseline was calculated in 2014 due to change in GWP of CH4 per IPCC AR4 (2007).
+186;City of Vancouver;2016;20;2020;Buildings;1145000;2007;See the Greenest City Action Plan for details.
+187;District of Columbia;2016;15;2015;Total;10101895;2006;
+188;District of Columbia;2016;20;2020;Total;10101895;2006;
+189;District of Columbia;2016;50;2032;Total;10101895;2006;2032
+190;District of Columbia;2016;80;2050;Total;10101895;2006;2050
+191;City of Yokohama;2016;21;2020;Other: Residential;4390000;2005;
+192;New York City;2016;30;2030;Total;55616668;2005;"NEW YORKâ€”Mayor de Blasio announced today that New York City is committing to reducing its greenhouse gas emissions by 80 percent over 2005 levels by 2050, starting with One City, Built to Last: Transforming New York Cityâ€™s Buildings for a Low-Carbon Future â€“ a sweeping plan to retrofit public and private buildings to dramatically reduce the cityâ€™s contributions to climate change, while spurring major cost savings and creating thousands of new jobs for New Yorkers who most need them. This makes New York the largest city to commit to the 80 percent reduction by 2050, and charts a long-term path for investment in renewable sources of energy and a total transition from fossil fuels.					
+					
+Nearly three quarters of New York Cityâ€™s greenhouse gas emissions come from energy used to heat, cool, and power buildings, making building retrofits a central component of any plan to dramatically reduce emissions.					
+					
+The City is poised to make direct investments to increase the efficiency of its public buildings, including schools and public housing, reducing the governmentâ€™s contribution to climate change and generating operational savings for New York City taxpayers. Every single city-owned building with any significant energy use â€“ approximately 3,000 buildings â€“ will be retrofitted within the next ten years, by 2025, with interim goals along the way."
+193;Suwon City;2016;40;;Total;601495;2005;
+194;New York City;2016;35;2025;Buildings;55616668;2005;"Global climate change is the challenge of our generation. The stakes are highâ€”for New Yorkers and for the world. In the coming years, New York City will face rising sea levels, increased temperatures and heat waves, and an increasing frequency of the most intense storms. These risks are not remote nor distant. They are here today. The damage caused by Hurricane Sandy in 2012 provided vivid evidence of these risks. Almost two years later, we are still recovering. Globally, climate change is having a devastating impact on peopleâ€™s lives as rising sea levels flood coastlines, droughts disrupt livelihoods, and storms, hurricanes, and other extreme weather events threaten security and economic development.					
+					
+For this reason, New York City is committed to reducing its greenhouse gas (GHG) emissions by 80 percent by 2050â€”the level the United Nations projects is needed to avoid the most dangerous impacts of climate changeâ€”and will chart a long-term course for a total transition away from fossil fuels to renewable sources of energy. We have developed an action plan for our buildings sector to reach a 35% energy reduction by 2025."
+195;New York City;2016;80;2050;Total;55616668;2005;"Global climate change is the challenge of our generation. The stakes are highâ€”for New Yorkers and for the world. In the coming years, New York City will face rising sea levels, increased temperatures and heat waves, and an increasing frequency of the most intense storms. These risks are not remote nor distant. They are here today. The damage caused by Hurricane Sandy in 2012 provided vivid evidence of these risks. Almost two years later, we are still recovering. Globally, climate change is having a devastating impact on peopleâ€™s lives as rising sea levels flood coastlines, droughts disrupt livelihoods, and storms, hurricanes, and other extreme weather events threaten security and economic development.					
+					
+For this reason, New York City is committed to reducing its greenhouse gas (GHG) emissions by 80 percent by 2050â€”the level the United Nations projects is needed to avoid the most dangerous impacts of climate changeâ€”and will chart a long-term course for a total transition away from fossil fuels to renewable sources of energy. We have developed an action plan for our buildings sector to reach a 35% energy reduction by 2025."
+196;City of Brisbane CA;2016;15;2020;Total;160944;2005;
+197;City of Hermosa Beach CA;2016;100;2040;Total;137160;2005;
+198;City of North Vancouver;2016;15;2020;Total;224212;2007;"Includes: solid waste, public transportation	 private transportation	 industrial buildings	 residential buildings"
+199;City of North Vancouver;2016;50;2050;Total;224212;2007;"Includes: solid waste, public transportation	 private transportation	 industrial buildings	 residential buildings"
+200;Town of Vail CO;2016;20;2020;Total;406000;2009;
+201;City Government of Makati;2016;52;2020;Other;60000;2011;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+202;Changwon City;2016;30;2020;Total;7501126;2005;The total reduction amount will be reached 3,102,145tCO2eq.
+203;City of Melbourne;2016;100;2020;Total;4934000;2008;We have a Zero Net Emissions by 2020 Strategy for the municipality.
+204;City of Sydney;2016;70;2030;Total;4536712;2006;Baseline emissions were calculated based on GPC BASIC methodology
+205;City of Yokohama;2016;7;2020;Other: Commercial;3350000;2005;
+206;City of Yokohama;2016;8;2020;Other: Industries;2950000;2005;
+207;City of Yokohama;2016;4;2020;Other: Energy Industries;3680000;2005;
+208;City of Yokohama;2016;50;2020;Transport;4340000;2005;
+209;City of Yokohama;2016;2;2020;Waste;430000;2005;
+210;City of Yokohama;2016;22;2020;Other: 5 gases other than CO2;410000;2005;
+211;City of Yokohama;2016;16;2020;Total;19540000;2005;
+212;Seoul Metropolitan Government;2016;25;2020;Transport;49467000;2005;One Less Nuclear Power Plant
+213;Singapore Government;2016;11;2020;Total;77.2;2020;"7 to 11% reduction (unconditional) from 2020 Business-as-usual (BAU) emissions					
+					
+16% reduction (conditional of global deal) from 2020 Business-as-usual (BAU) emissions"
+214;Tokyo Metropolitan Government;2016;30;2030;Total;62100000;2000;"TMG also set energy efficiency targets					
+					
+					
+industrial and Commercial sector 30%					
+Residential sector 30%					
+Transportation 60%					
+Total 38%"
+215;Tokyo Metropolitan Government;2016;20;2030;Other: Industrial and Commercial sector;25700000;2000;
+216;Tokyo Metropolitan Government;2016;20;2030;Other: Residential sector;14300000;2000;
+217;Tokyo Metropolitan Government;2016;60;2030;Transport;17600000;2000;
+218;Ansan City;2016;20;2015;Total;;2010;do not wish to disclose baseline emissions
+219;Auckland Council;2016;10;2020;Total;8760000;1990;Baseline emissions need to be updated.
+220;Auckland Council;2016;40;2040;Total;8760000;1990;Baseline emissions need to be updated.
+221;Auckland Council;2016;50;2050;Total;8760000;1990;Baseline emissions need to be updated.
+222;Canberra;2016;40;2020;Total;3185500;1990;Baseline emissions subject to change should in event of methodology change
+223;Canberra;2016;100;2050;Total;3185500;1990;Baseline emissions subject to change should in event of methodology change
+224;City Government of Makati;2016;42;2020;Transport;48000;2011;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+225;City Government of Makati;2016;13;2020;Other;7000;2011;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+226;City of Adelaide;2016;100;2025;Total;;;Target = zero net carbon emissions by 2025 (so there is no baseline year).
+227;City of Adelaide;2016;35;2020;Total;411000;2007;
+228;City of Nagoya;2016;25;2020;Total;17390000;1990;
+229;City of Okayama;2016;4.2;2020;Other;6104000;1990;
+230;City of Perth;2016;30;2031;Total;965000;2006;
+231;Gwangyang City;2016;20;2015;Total;3666;2008;GHG/Energy Target Management Scheme for public   affairs
+232;Hongcheon County;2016;33;2020;Transport;1143582;2013;
+233;Hsinchu County Government;2016;5;2020;Total;10739613;2011;
+234;Hsinchu County Government;2016;10;2025;Total;10739613;2011;
+235;Kaohsiung City Government;2016;20;2020;Total;64339200;2005;Chu Chen, Mayor of Kaohsiung City had set up short term GHG reduction target, decreasing 20% by 2020 compared with the emissions in 2005. Therefore, city has to build up its future BAU for comparison with baseline emissions, to estimate how many should city reduce in order to reach the target.
+236;New Taipei City Government;2016;0;2016;Total;18487331;2006;
+237;New Taipei City Government;2016;20;2026;Total;19122376;2008;
+238;Pingtung County Government;2016;30;2030;Total;4600000;2013;Pingtung County set up the GHG emission reduction goal, decreasing 30% by 2030 compared with the emission in 2013.
+239;Suwon City;2016;5;;Total;601495;2005;
+240;Suwon City;2016;20;;Total;601495;2005;
+241;Taipei City Government;2016;0;2020;Total;16546253;2008;
+242;Taipei City Government;2016;25;2030;Total;16132003;2005;
+243;Taipei City Government;2016;50;2050;Total;16132003;2005;
+244;Taoyuan City Hall;2016;50;2050;Total;30474326;2005;In accordance with Central Government policy
+245;Uljin County;2016;20;2015;;230497;2009;
+246;Wellington City Council;2016;10;2020;Total;1310705;2001;
+247;Wellington City Council;2016;40;2030;Total;1310705;2001;
+248;Wellington City Council;2016;65;2050;Total;1310705;2001;
+249;Batangas City;2016;25;2016;Total;457288;2010;
+250;Metropolitan Municipality of Lima;2016;10;2016;Transport;;2015;En el PEI del Instituto Metropolitano de Protransporte de Lima, tiene como indicador de reducciÃ³n del 10% de las emisiones que emiten el transporte pÃºblico.
+251;City of BrasÃ­lia;2016;40;2020;Total;5648130000;;O Distrito Federal conta com uma PolÃ­tica de Clima (LEI NÂº 4.797, DE 6 DE MARÃ‡O DE 2012 - Promulgada em 24/4/2015), ainda nÃ£o regulamentada, cuja meta de mitigaÃ§Ã£o estÃ¡ de acordo com as metas da PNMC- LEI NÂº 12.187, DE 29 DE DEZEMBRO DE 2009),  neste caso, meta de 40% atÃ© 2020.
+252;Gobierno Municipal de LeÃ³n de los Aldamas;2016;20;2020;Total;5012.13;2013;Meta global de mitigaciÃ³n definida en el programa municipal de cambio climÃ¡tico.
+253;Comune di Olbia;2016;25.23;2020;Total;225640;2009;
+254;Municipalidad de La Paz;2016;45;2040;Transport;700;2012;"Se pretende tener un sistema de transporte sostenible que sea seguro, confiable, econÃ³mico, eficiente, equitativo, al alcance de todos, que  incida positivamente en la generaciÃ³n de cambios positivos en la seguridad ciudadana tanto en los Ã­ndices de accidentalidad, contaminaciÃ³n y seguridad ciudadana, generado a travÃ©s de los programas de transporte masivo (La Paz Bus, Puma Katari, telefÃ©rico laderas, tren elevado ecolÃ³gico)	 Y un Sistema de transporte en La Paz y El Alto renovado (a travÃ©s de un Programa de renovaciÃ³n del parque automotor)"
+255;Municipalidad de La Paz;2016;17;2040;Waste;190;2012;Se espera contar con una gestiÃ³n Integral de Residuos SÃ³lidos desde origen con reciclaje y reutilizaciÃ³n, a partir del establecimiento de mecanismos de compensaciÃ³n y beneficio econÃ³mico, con inclusiÃ³n social y disposiciÃ³n final adecuada, incidiendo positivamente sobre la salud y la educaciÃ³n de la poblaciÃ³n en general, controlada (a travÃ©s de red de puntos verdes, planta de biogÃ¡s, plastimadera  y EducaciÃ³n ambiental para la GestiÃ³n Integral de Residuos sÃ³lidos)
+256;Municipalidad de La Paz;2016;35;2040;Buildings;338;2012;Los resultados esperados serÃ­an (Herramientas conceptuales, tÃ©cnicas y jurÃ­dicas para la aplicaciÃ³n de acciones en materia de calidad ambiental  elaboradas y Sistema energÃ©tico des-fosilizado y  generaciÃ³n y consumo de  energÃ­a en el Municipio de La Paz controlado), a travÃ©s de Programa control y monitoreo de calidad ambiental (normativa greenbuilding, hora del planeta) y el Programa energÃ­as renovables y ecoeficientes (Eficiencia energÃ©tica en viviendas del municipio-Ã¡rea urbana y EducaciÃ³n para uso eficiente de energÃ­a)
+257;Municipalidad de La Paz;2016;63;;Buildings;113;2012;Los resultados esperados serÃ­an (Herramientas conceptuales, tÃ©cnicas y jurÃ­dicas para la aplicaciÃ³n de acciones en materia de calidad ambiental y Sistema energÃ©tico des-fosilizado y  generaciÃ³n y consumo de  energÃ­a en el Municipio de La Paz controlado) a travÃ©s de Programa control y monitoreo de calidad ambiental (normativa greenbuilding), Programa energÃ­as renovables y ecoeficientes (Eficiencia energÃ©tica en comercios del municipio (Ã¡rea urbana y SensibilizaciÃ³n y educaciÃ³n para uso eficiente de energÃ­a) y Alumbrado pÃºblico eficiente (La Paz Iluminada + Recambio de luminaria LED en el alumbrado pÃºblico de la ciudad)
+258;Municipalidad de La Paz;2016;23;;Buildings;79;2012;"Sistema energÃ©tico des-fosilizado y  generaciÃ³n y consumo de  energÃ­a en el Municipio de La Paz controlado	 Uso de energÃ­as alternativas incrementado, matriz de generaciÃ³n diversificada y consumo de combustibles fÃ³siles reducido, en Bolivia y Eficiencia energÃ©tica en el sector industrial a travÃ©s de Programa energÃ­as renovables y eco-eficientes, Programa energÃ­as renovables y eco eficientes y Programa de ElectrificaciÃ³n Rural con EnergÃ­a Renovable"
+259;Municipality of Belo Horizonte;2016;20;2030;Total;3176966;2007;All this items are in discussion inside the Plan For GHG Reduction - PREGEE but our target date will be 2030. The plan will be released in 2013, July, and will anticipate the reduction in the emissions growth curve.
+260;Prefeitura de FlorianÃ³polis;2016;42;2020;Other;2099020;2013;low carbon agriculture, implementation of green infrastructure, reduction in energy, consumption, sanitation, reducing fuel consumption
+261;City of Buenos Aires;2016;30;2030;Total;12742478;2008;"-Baseline scenario goal: 2008 is the start year of the baseline scenario used as the starting point for the BAU analysis. 					
+#NAVN?					
+-Note that the target of 30 % includes an unconditional 20 % and 10% conditional on access to finance and the national regulatory policy framework."
+262;Distrito Metropolitano de Quito;2016;30;2025;Total;5218318;2011;5% reduction per year of the projected growth rate of emissions, starting 2019
+263;Prefeitura do Rio de Janeiro;2016;16;2016;Total;11933280;2005;Measurement of avoided GHG emissions.
+264;Prefeitura do Rio de Janeiro;2016;20;2020;Total;11933280;2005;Measurement of avoided GHG emissions.
+265;Prefeitura do Rio de Janeiro;2016;100;2065;Total;;;Rio has just launched its goal for being carbon neutral until 2065, fifty years from now.
+266;Comune di Lucca;2016;20;2020;Total;437265;2005;http://www.covenantofmayors.eu/about/signatories_it.html?city_id=4190&seap
+267;Frederikshavn Kommune;2016;97;2030;Total;547000;2010;
+268;City of Alba-Iulia;2016;34;2020;Buildings;4292;2008;
+269;City of Alba-Iulia;2016;25;2020;Buildings;61560;2008;
+270;City of Alba-Iulia;2016;18;2020;Buildings;98185;2008;
+271;City of Alba-Iulia;2016;23;2020;Transport;44216;2008;
+272;City of Alba-Iulia;2016;38;2020;Other: public lighting - energy regeneration;1935;2008;
+273;Town of Ajax ON;2016;6;2020;Total;521250;2005;
+274;City of Prince George BC;2016;2;2012;Total;;2002;City has not set new targets at this time, working on them for the near future.
+275;City of Piedmont CA;2016;15;2020;Total;427000000;2005;
+276;Ville de Salaberry-de-Valleyfield;2016;20;2020;Total;198408.23;2009;
+277;Moscow Government;2016;25;2020;Total;63443619;1990;
+278;Stadt Heidelberg;2016;95;2050;Total;;1990;
+279;City of Davis CA;2016;100;2050;Total;348437;2010;
+280;City of Hiroshima;2016;6;;Total;8525221;1990;
+281;Aarhus Kommune;2017;100;2030;;;2030;
+282;Abasan Al-Kabira Municipality;2017;19;2020;Buildings;18320;2020;
+283;Abasan Al-Kabira Municipality;2017;6;2020;Transport;6893;2020;
+284;Ajuntament de Barcelona;2017;18;2020;Total;4053;2020;
+285;Ajuntament de Barcelona;2017;1;2020;Buildings;2164;2020;Residential, Commercial and Industrial
+286;Ajuntament de Barcelona;2017;27;2020;Transport;1540;2020;On road transportation, port and airport
+287;Ajuntament de Barcelona;2017;74;2020;Waste;327;2020;
+288;Ajuntament de Barcelona;2017;;;;;;
+289;AlcaldÃ­a de Cuenca;2017;;;Transport;11000;;TranvÃ­a, ciclovÃ­as, sensibilizaciÃ³n sobre el uso del transporte privado
+290;AlcaldÃ­a de Cuenca;2017;;;Waste;60000;;Planta de biogas
+291;AlcaldÃ­ade Sincelejo;2017;;;;;;
+292;Auckland Council;2017;10;2020;Total;8892000;2020;10%-20% reduction by 2020
+293;Auckland Council;2017;40;2040;Total;8892000;2040;
+294;Auckland Council;2017;50;2050;Total;8892000;2050;
+295;Ayuntamiento de Madrid;2017;50;2030;Transport;3162;2030;
+296;Ayuntamiento de Madrid;2017;40;2030;Total;12953000;2030;
+297;Ayuntamiento de Murcia;2017;20;2020;Total;2141277;2020;We already reach this target in 2015
+298;BÃ¦rum Kommune;2017;40;2030;Total;227359;2030;As reported in May 2017 we are in the process of developing a climate strategy where emission reduction targets will be set. The strategy is for political consideration until February 2018, and proposes a target of 40 % GHG reduction by 2030.
+299;Bangkok Metropolitan Administration;2017;;2020;Transportation;13760000;2020;
+300;Bangkok Metropolitan Administration;2017;;2020;Stationary energy (buildings);25600000;2020;
+301;Bangkok Metropolitan Administration;2017;;2020;Waste;4550000;2020;
+302;Barreiro;2017;20;2020;Total;347987;2020;There is a difference between the amount of CO2 emissions presented in SEAP and this table due to a change in the calculation methodology.
+303;Basel-Stadt;2017;20;2020;Total;1108030;2020;Swiss federal law CO2
+304;Basel-Stadt;2017;;;;;;
+305;Batangas City;2017;25;2030;Total;657636;2030;
+306;Batangas City;2017;;;;;;
+307;Bogor City Government;2017;33;2030;Total;2193642;2030;WEM (With Existing Measure) Scenario
+308;BogotÃ¡ Distrito Capital;2017;62;2050;Total;16279278;2050;
+309;Bornova Municipality;2017;;;;;;
+310;Byron Shire Council;2017;100;2025;Total;263199;2025;This target covers the five areas of energy, buildings, waste, land use, transport. Included is a 100% RE target.
+311;Canberra;2017;40;2020;Total;3196800;2020;Baseline emissions subject to change should in event of methodology change
+312;Canberra;2017;100;2050;Total;3196800;2050;Baseline emissions subject to change should in event of methodology change
+313;Changwon City;2017;;;Waste;;;
+314;City Government of Makati;2017;42;2020;;;2020;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+315;City Government of Makati;2017;52;2020;;;2020;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+316;City Government of Makati;2017;13;2020;;;2020;Figures in the 4th column entails the reduction effort in tCO2e in 10 years time. Baseline emission is the Total emission of 1.6 tCO2e.
+317;City of Adelaide;2017;100;2025;;;2025;Target = zero net carbon emissions by 2025 (so there is no baseline year).
+318;City of Adelaide;2017;35;2020;Total;1175630;2020;The target emissions will equate to 764160tCO2e in 2020
+319;City of Ã†rÃ¸skÃ¸bing;2017;10;;;;;
+320;City of Akureyri;2017;40;2030;;;2030;
+321;City of Alba-Iulia;2017;34;2020;Buildings;4292;2020;
+322;City of Alba-Iulia;2017;25;2020;Buildings;61560;2020;
+323;City of Alba-Iulia;2017;18;2020;Buildings;98185;2020;
+324;City of Alba-Iulia;2017;23;2020;Transport;44216;2020;
+325;City of Alba-Iulia;2017;38;2020;Other: Public Lighting - energy regeneration;1935;2020;
+326;City of Albany;2017;10;2030;;;2030;
+327;City of Albany;2017;20;2030;;;2030;
+328;City of Albany;2017;;2030;;;2030;Divert 65% of solid waste from the landfill by 2030
+329;City of Albany;2017;10;2030;;;2030;
+330;City of Ann Arbor;2017;25;2025;Total;1681926;2025;
+331;City of Ann Arbor;2017;90;2050;Total;1681926;2050;
+332;City of Arlington, VA;2017;76;;Other: Community-wide (everything);13;;
+333;City of Aspen and Pitkin County;2017;30;2020;;;2020;
+334;City of Aspen and Pitkin County;2017;80;2050;;;2050;
+335;City of Athens;2017;40;2030;Total;5069040;2030;
+336;City of Atlanta;2017;20;2020;Buildings;373867;2020;Benchmarking and retrofits for buildings larger than 25,000 soft
+337;City of Atlanta;2017;20;2020;Transport;27266;2020;Sharing mobility strategies, TOD, and parking strategies
+338;City of Atlanta;2017;80;2020;Waste;29000;2020;Reevaluation of recycling curbing and educational programs with public and private sector
+339;City of Austin;2017;100;2050;Total;14050168;2050;Our goal is to have net zero carbon emissions by 2050 with interim goals following a linear target line from our 2010 baseline to 2050.  Our interim goals are: 2020: 11,300,000 MT CO2e 2030: 8,000,000 MT CO2e 2040: 4,600,000 MT CO2e  Page 5 of our climate plan shows our linear target path  http://austintexas.gov/sites/default/files/files/Sustainability/OOS_AustinClimatePlan_032915_SinglePages.pdf
+340;City of Baltimore;2017;15;2020;Total;;2020;Key findings by sector provide guidance for where strategies can perhaps slow future emissions growth.â€¢ GHG emissions from the energy sector are anticipatedto increase slightly from 79.5 percent (2010) to 79.9percent (2020).â€¢ The transportation-related emissions are anticipatedto decrease from 15.6 percent (2010) to 15.2 percent(2020).â€¢ The waste-related emissions are anticipated to remainunchanged at 2.8 percent.â€¢ Wastewater treatment GHG emissions are expected toremain unchanged at 1.5 percent.â€¢ GHG emissions from the water sector are anticipatedto remain unchanged at 0.7 percent.All GHG emissions have been calculated and presented inmetric tons of carbon dioxide equivalent emissions per year(MT CO2e/yr).
+341;City of Bellingham, WA;2017;7;2012;;;2012;
+342;City of Benicia;2017;10;2020;;;2020;
+343;City of Boston;2017;25;2020;Total;7350268;2020;
+344;City of Boston;2017;100;2050;Total;7350268;2050;In January, 2017 Mayor Walsh announced a new goal of being carbon-neutral by 2050.
+345;City of Boulder;2017;80;2050;Total;1949796;2050;Our progress toward this reduction target is publicly available on our city-wide dashboard, Boulder Measures: https://bouldercolorado.gov/boulder-measures
+346;City of Bournemouth;2017;30;;Other:;6;;
+347;City of BrasÃ­lia;2017;40;2020;Total;5648140;2020;O Distrito Federal conta com a Lei de Clima NÂº 4.797/2012, ainda nÃ£o regulamentada, cuja meta de mitigaÃ§Ã£o estÃ¡ de acordo com as metas da PNMC- LEI NÂº 12.187/2009, neste caso, meta de 40% atÃ© 2020. A Lei de Clima do DF tambÃ©m determinou a internalizaÃ§Ã£o da dimensÃ£o climÃ¡tica no planejamento da malha viÃ¡ria e da oferta dos diferentes modais de transportes. Determinou tambÃ©m o estabelecimento de limites e metas de reduÃ§Ã£o progressiva e a promoÃ§Ã£o do monitoramento das emissÃµes dos GEE pelo sistema de transporte do DF. AlÃ©m disso, para o sistema de transporte pÃºblico, a Lei determina uma reduÃ§Ã£o progressiva do uso de combustÃ­veis fÃ³sseis e meta progressiva de reduÃ§Ã£o de, pelo menos, 10% a cada ano, a partir de 2011. Em 2020, de acordo com a Lei de Clima do DF, todos os Ã´nibus do sistema de transporte pÃºblico do Distrito Federal estarÃ£o utilizando combustÃ­vel renovÃ¡vel nÃ£o fÃ³ssil. A Lei tambÃ©m prevÃª reduÃ§Ã£o do desmatamento e de decisÃµes de fortalecimento das remoÃ§Ãµes antrÃ³picas por sumidouros de gases de efeito estufa no territÃ³rio.
+348;City of Brisbane, CA;2017;15;2020;Total;;2020;
+349;City of Buenos Aires;2017;;2030;;12742478;2030;
+350;City of Cleveland;2017;16;2020;Total;12519122;2020;This goal is science-based and designed to be bold, yet achievable.The Climate Action Plan includes details on how much each emission reduction activity contributes to the goal.
+351;City of Lancaster;2017;;;;;;
+352;City of Burlington;2017;20;2020;;;2020;Reduction GoalsSubsequent to the completion of the 2007 GHG emissions inventory, the City established the following emissions reduction targets: Short-term: Reduction of 20% below 2007 levels by 2020 *Equals 1.5% annual reduction until 2020 Long-term: Reduction of 80% below 2007 levels by 2050 *Equals 2% annual reduction between 2020 and 2050 To achieve its 2020 goal, the City would have to reduce the emissions generated by its municipal operations by 4,657 tons of CO2 equivalent, while the community-wide emissions reduction would have to approach 86,485 tons of CO2 equivalent. These are not insignificant numbers, but if the City and community come together in working towards those same goals, we can surely achieve them. Exploration of new technologies, new financial incentives and/or financing schemes, as well as a general willingness and commitment to the implementation of this plan will bring success.
+353;City of Calgary;2017;20;2020;Total;15793731;2020;
+354;City of Calgary;2017;50;2036;Total;11871100;2036;Target was set as part of imagineCALGARY (a community-wide engagement in 2006 to set the 100-year sustainability vision for Calgary).
+355;City of Calgary;2017;80;2050;Total;15793731;2050;
+356;City of Cambridge;2017;100;2050;Total;1462236;2050;
+357;City of Cape Town;2017;;Other: 2022;Residential buildings;4619754;Other: 2022;
+358;City of Cape Town;2017;;Other: 2022;Commercial buildings;6037936;Other: 2022;
+359;City of Cape Town;2017;;Other: 2022;Industrial buildings;2203336;Other: 2022;
+360;City of Cape Town;2017;;Other: 2022;Public buildings;143959;Other: 2022;
+361;City of Cape Town;2017;;Other: 2022;Transportation;7591848;Other: 2022;
+362;City of Cape Town;2017;;Other: 2022;Wastewater;13399;Other: 2022;
+363;City of Cardiff;2017;26;2020;Other:;2667000;2020;This 26% reduction target is for per capita emissions (NB Cardiff is the UKs fastest growing city).  The per capita carbon emissions were 8.3 tonnes in 2005 and are 6.1 in 2013, demonstrating a 27% reduction in per capita emissions.  (The reduction in absolute emissions from 2005 to 2013 is 20%)
+364;City of Charlotte;2017;100;2050;;;2050;We have a goal to be carbon neutral by 2050, and are currently working on our baseline inventory through the GPC.
+365;City of Charlottesville, VA;2017;10;2035;Total;868952;2035;
+366;City of Charlottesville, VA;2017;;;;;;
+367;City of Chicago;2017;80;2050;Total;32300000;2050;The 1990 baseline was chosen in alignment with the Kyoto Protocol
+368;City of Chicago;2017;25;2020;Total;32300000;2020;The 1990 baseline was chosen in alignment with the Kyoto Protocol
+369;City of Cincinnati;2017;84;2050;Total;9.3;2050;
+370;City of Cincinnati;2017;40;2030;Total;9.3;2030;
+371;City of Lancaster;2017;;;;;;
+372;City of Cleveland;2017;40;2030;Total;12519122;2030;This goal is science-based and designed to be bold, yet achievable.The Climate Action Plan includes details on how much each emission reduction activity contributes to the goal.
+373;City of Cleveland;2017;80;2050;Total;12519122;2050;This goal is science-based and designed to be bold, yet achievable. The Climate Action Plan does not include detail on how much each emission reduction activity contributes. This is more of a visionary goal.
+374;City of Columbia, SC;2017;7;2016;Total;;2016;
+375;City of Columbus;2017;20;2020;Total;240971;2020;
+376;City of Copenhagen;2017;;2025;Total;;2025;
+377;City of Hayward;2017;20;2020;Total;1183274;2020;Baseline does NOT include all records used in the 2010 & 2015 inventories.
+378;City of Cupertino;2017;15;2020;Total;307288;2020;In light of more current guidance from OPR or BAAQMD at the time of document preparation, Cupertino has selected a reduction target of 15% below 2010 baseline levels by 2020 as a proxy for a return to 1990 levels.
+379;City of Cupertino;2017;49;2035;Total;307288;2035;
+380;City of Cupertino;2017;83;2050;Total;307288;2050;
+381;City of Davis, CA;2017;100;2050;;;2050;
+382;City of Delhi;2017;;;;;;
+383;City of Delhi;2017;;;;;;
+384;City of Denver;2017;1;2020;Total;11800000;2020;The goal is to get to at or below 1990 level emissions by 2020
+385;City of Denver;2017;80;2050;Total;13250000;2050;Denver is utilizing a 2005 baseline for our long term goal as there were more robust data available in 2005 compared to 1990.
+386;City of Durham;2017;;2030;;6837430;2030;
+387;City of Edmonton;2017;35;2035;Total;14954000;2035;Overall TCO2e reduction from cummulative residential, commercial, industrial and transportation sectors only. For example Industrial process and landfill gas emissions are not included.
+388;City of Edmonton;2017;25;2035;Other:;18.4;2035;The intensity value to three decimal places is 18.371 TCO2e/capita. This is a per capita emissions reduciton intensity based target.
+389;City of Edmonton;2017;25;;Other:;18;;
+390;City of Emeryville, CA;2017;40;2030;;;2030;
+391;City of Emeryville, CA;2017;80;2050;;;2050;
+392;City of Espoo;2017;80;2050;Total;1060000;2050;Target is Carbon neutrality, it is estimated that it will mean 80 % reduction
+393;City of Espoo;2017;60;;Other:;6;;
+394;City of Eugene;2017;7.6;2020;Total;1846983;2020;
+395;City of Fayetteville, AR;2017;80;2050;Total;1025453;2050;The draft Energy Action Plan is calling for a 3% GHG reduction every year with an overall GHG reduction of 80% by the year 2050.
+396;City of Fort Collins;2017;20;2020;Total;2410518;2020;
+397;City of Gdynia;2017;20;2020;Total;;2020;Gdynia has the Low Emission Economy Plan 2015-2020. Up to 2020 Gdynia declared to reduce the emission of CO2 by 20%, to reduce the consumption of  the final energy by 28% and to increase power installed renewable energy sources by 14,4 MW.
+398;City of Greensboro;2017;0;2020;Total;5365412;2020;Goal is to stabilize at baseline emissions level.
+399;City of Hamilton;2017;10;2012;Total;23087326;2012;Targets achieved in 2011.
+400;City of Hamilton;2017;20;2020;Total;23087326;2020;Targets achieved in 2011.
+401;City of Hamilton;2017;50;2030;Total;23087326;2030;Targets set in 2015 to follow Corporate targets and community request under Community Climate Change Action Plan 2015
+402;City of Hamilton;2017;80;2050;Total;23087326;2050;New targets set in 2013 by Council.
+403;City of Helsinki;2017;30;2020;Total;;2020;City Council Strategy 2013-2016
+404;City of Helsinki;2017;39;2030;Total;;2030;Climate strategy for the metropolitan area. Target achieved in 2014.
+405;City of Helsinki;2017;20;2020;Total;;2020;City's energy policy lines, Covenant of Mayors. Target achieved in 2013.
+406;City of Iowa City;2017;27;2025;Total;;2025;Baseline emissions to be estimated
+407;City of Iowa City;2017;80;2050;Total;;2050;Baseline emissions to be estimated
+408;City of Johannesburg;2017;;;;;;
+409;City of Knoxville;2017;20;2020;Total;4507885;2020;Note: For question 7.3, The City of Knoxville has not estimated anticipated reductions or measure reductions based on each emissions reduction activity.  However, the cumulative effect of past emissions reductions activities reduced residential energy consumption by 2%, commercial energy consumption by 13%, and community greenhouse gas emissions by 7.75% between 2005 and 2012.
+410;City of Kuala Lumpur;2017;70;2030;Total;25427;2030;reduce as much as 70% of CO2 emission intensify by 2030
+411;City of La Crosse, WI;2017;;;;;;
+412;City of Lahti;2017;35;2020;Total;;2020;In the City strategy: -50% by 2015 (from 1990 level)
+413;City of Lake Forest, IL;2017;20;2015;;;2015;After reaching our target, our current goal is to decrease emissions 2% annually.
+414;City of Lakewood;2017;20;2025;Total;2646240;2025;This baseline was calculated using a hybrid demand-center life cycle assessment methodology and does not align with GPC standards
+415;City of Lakewood;2017;50;2050;Total;2646240;2050;This baseline was calculated using a hybrid demand-center life cycle assessment methodology and does not align with GPC standards
+416;City of Lancaster;2017;15;2020;Total;885210;2020;
+417;City of Lancaster;2017;40;2030;Total;885210;2030;
+418;City of Lancaster;2017;60;2040;Total;885210;2040;
+419;City of Lancaster;2017;80;2050;Total;885210;2050;
+420;City of Lisbon;2017;40;2030;Total;3887013;2030;
+421;City of Lisbon;2017;40;2030;Transport;1567000;2030;Target of 40% based on total city wide emissions target
+422;City of Lisbon;2017;40;2030;Other:;2320013;2030;Aggregation of residential, services and industrial sectors. Target of 40% based on total city wide emissions target
+423;City of Ljubljana;2017;30;2020;Total;2660000;2020;see in previous answers
+424;City of London, ON;2017;15;2020;Total;3430000;2020;NOTE: baseline emissions are higher with the inclusion of GPC sources - domestic aviation, railways, waste disposed outside of London
+425;City of London, ON;2017;37;2030;Total;3430000;2030;NOTE: London has committed to using targets consistent with the Province of Ontario's targets. In spring 2015, Ontario announced this new mid-term reduction goal for a 37% reduction by 2030.
+426;City of London, ON;2017;80;2050;Total;3430000;2050;
+427;City of Long Beach;2017;15;2020;Buildings;;2020;
+428;City of Long Beach;2017;10;2020;Transport;;2020;
+429;City of Los Angeles;2017;45;2025;Total;54000000;2025;
+430;City of Los Angeles;2017;60;2035;Total;54000000;2035;
+431;City of Los Angeles;2017;80;2050;Total;54000000;2050;
+432;City of Los Angeles;2017;55;;Other: total Los Angeles economy;45;;
+433;City of Mannheim;2017;40;2020;;;2020;
+434;City of Medford;2017;100;2050;Total;465879;2050;This is a regional commitment to carbon neutrality by 2050
+435;City of Melbourne;2017;100;2020;Total;4934000;2020;We have a Zero Net Emissions by 2020 Strategy for the municipality.
+436;City of Miami;2017;25;2020;;;2020;
+437;City of Minneapolis;2017;15;2015;Total;5173279;2015;
+438;City of Minneapolis;2017;30;2025;Total;5173279;2025;
+439;City of Minneapolis;2017;80;2050;Total;5173279;2050;
+440;City of New Orleans;2017;50;2030;Total;3606199;2030;
+441;City of North Vancouver;2017;15;2020;Total;207530;2020;"Includes: solid waste, public transportation	 private transportation	 commercial buildings	 residential buildings"
+442;City of North Vancouver;2017;50;2050;Total;207530;2050;"Includes: solid waste, public transportation	 private transportation	 commercial buildings	 residential buildings"
+443;City of Northampton, MA;2017;30;2020;Total;;2020;Primarily using fossil fuels, not GHG, as our measurement tool because we have more (albeit still very limited) data
+444;City of Oakland;2017;36;2020;Total;2992735;2020;
+445;City of Oslo;2017;50;2020;Total;1200000;2020;
+446;City of Oslo;2017;95;2030;Total;1200000;2030;
+447;City of Oslo;2017;100;2020;Buildings;320000;2020;
+448;City of Ottawa;2017;12;2024;Total;5420000;2024;Target end date is 2024.
+449;City of Ottawa;2017;80;2050;Total;5420000;2050;
+450;City of Palo Alto;2017;20;2020;Total;765920;2020;2007 goals exceeded. New goals set April 2016. The City will comply with all State requirements and targets.
+451;City of Palo Alto;2017;80;2030;Total;765920;2030;
+452;City of ParaÃ±aque;2017;;;;;;
+453;City of Paris;2017;25;2020;Total;6259429;2020;to respect the european objectives by 2020
+454;City of Paris;2017;75;2050;Total;6259429;2050;
+455;City of Paris;2017;40;2030;Buildings;6259429;2030;
+456;City of Park City, UT;2017;100;2032;Total;16698;2032;Target date = 2032 community-wide
+457;City of Philadelphia;2017;80;2050;Total;21.1;2050;
+458;City of Piedmont, CA;2017;15;2020;;;2020;
+459;City of Pittsburgh;2017;20;2025;Total;;2025;In PCAP 1.0 PCI set a target of 20% below 2003 baseline by 2023. We are currently developing more ambitious and specific greenhouse gas reduction targets.
+460;City of Pittsburgh;2017;50;2030;Total;;2030;
+461;City of Pittsburgh;2017;50;2030;Buildings;;2030;
+462;City of Pittsburgh;2017;50;2030;Transport;;2030;
+463;City of Podgorica;2017;20;2020;Buildings;267;2020;
+464;City of Podgorica;2017;20;2020;Transport;299;2020;
+465;City of Podgorica;2017;20;2020;Other: Public lighting;5;2020;
+466;City of Port Allen, LA;2017;;;;;;
+467;City of Portland, OR;2017;80;2050;Total;8989869;2050;
+468;City of Porto;2017;45;2020;Total;1300000;2020;
+469;City of Prince George, BC;2017;2;2012;Total;660300;2012;City has not set new targets at this time, working on them for the near future.
+470;City of Providence;2017;100;2050;Total;2652837;2050;
+471;City of ReykjavÃ­k;2017;35;2020;;;2020;
+472;City of ReykjavÃ­k;2017;73;2050;;;2050;
+473;City of Richmond, CA;2017;15;2020;;;2020;
+474;City of Richmond, CA;2017;40;2030;;;2030;
+475;City of Richmond, CA;2017;80;2050;;;2050;
+476;City of Richmond, VA;2017;80;2050;;;2050;
+477;City of Roanoke;2017;;;;;;
+478;City of Rochester;2017;40;2030;Total;1900000;2030;Source: Rochester Climate Action Plan, page 32
+479;City of Sacramento;2017;15;2020;;;2020;
+480;City of Sacramento;2017;49;2035;;;2035;
+481;City of Sacramento;2017;83;2050;;;2050;
+482;City of Salem, MA;2017;;;;;;
+483;City of San Diego;2017;50;2035;Total;12984993;2035;
+484;City of San Diego;2017;;2035;;12984993;2035;
+485;City of San Francisco;2017;80;2050;Total;6201949;2050;
+486;City of San Francisco;2017;40;2025;Total;6201949;2025;
+487;City of San Francisco;2017;25;2017;Total;6201949;2017;
+488;City of San JosÃ©;2017;;;;;;The Envision San Jose 2040 General Plan, consistent with State of California goals, is to reduce greenhouse gas emissions to 1990 levels, and current acts as San Jose's Climate Action Plan.  San Jose is also in the process of coordinating with the County of Santa Clara to develop a new municipal Climate Action Plan.  San Jose is also in the process of developing a separate Greenhouse Gas Reduction Strategy Policy.
+489;City of San Leandro, CA;2017;25;2020;Total;675800;2020;Note this is an updated baseline from the 2010 GHG Emissions Inventory Update, dated January 2014
+490;City of Santa Cruz, CA;2017;30;2020;Total;427280;2020;Reduce community-wide greenhouse gas emissions 30% by 2020 and 80% by 2050 (compared to 1990 levels).
+491;City of Santa Cruz, CA;2017;80;2050;Total;427280;2050;Reduce community-wide greenhouse gas emissions 30% by 2020 and 80% by 2050 (compared to 1990 levels).
+492;City of Santa Monica;2017;15;2015;Total;1386640;2015;
+493;City of Santa Monica;2017;80;2050;Total;1386640;2050;
+494;City of Saskatoon;2017;15;Other: 2023;Total;3852171;Other: 2023;
+495;City of Saskatoon;2017;80;2050;Total;3852171;2050;
+496;City of Seattle;2017;100;2050;Total;3647000;2050;Our long-term goals are: 58% reduction by 2030 Zero net emissions by 2050.
+497;City of Shenzhen;2017;45;;Other: Total city-wide emissions;1.48;;
+498;City of Yokohama;2017;22;2020;Other: 5 gases other than C2;410000;2020;
+499;City of Somerville, MA;2017;100;2050;Total;609561;2050;Somerville has a carbon neutrality by 2050 goal.  The exact technical definition of carbon neutrality, for accounting purposes, has not yet been finalized.
+500;City of St Louis;2017;80;2050;Total;8081418;2050;
+501;City of Stockholm;2017;100;2040;Total;3668000;2040;City-wide emissions
+502;City of Sydney;2017;70;2030;Total;5920000;2030;Baseline emissions were calculated based in GPC Basic+ S3 methodology
+503;;;;;;;;
+504;City of Toronto;2017;30;2020;Total;27051617;2020;
+505;City of Toronto;2017;80;2050;Total;27051617;2050;TransformTO (yet to be adopted fully by Council, will update this Plan with an interim target in 2030)
+506;;;;;;;;
+507;City of Vancouver;2017;33;2020;Total;2805000;2020;See the Greenest City Action Plan for details.
+508;City of Vancouver;2017;20;2020;Buildings;1300000;2020;See the Greenest City Action Plan for details.
+509;City of West Hollywood;2017;25;2035;;;2035;The target is 20-25% over 2008 levels. The City will update this goal to reflect California law when it updates the CAP in 2017.
+510;City of West Palm Beach;2017;100;2050;Total;1484767;2050;
+511;City of West Palm Beach;2017;25;2025;Total;1484767;2025;
+512;City of Windsor;2017;40;;Other: Total;9;;Reduce GHG emissions by 40 per cent by 2041 from 8.8t CO2e per capita in 2014.
+513;City of Winnipeg;2017;6;;Total;5257324;;No firm target date or action plan. We are currently soliciting applications from third-party consultants to assist the city with formulating an action plan.
+514;City of Wroclaw;2017;21;2020;Total;4422676;2020;
+515;City of Yokohama;2017;16;2020;Total;19540000;2020;
+516;City of Yokohama;2017;21;2020;Other: Residential;4390000;2020;
+517;City of Yokohama;2017;7;2020;Other: Commercial;3350000;2020;
+518;City of Yokohama;2017;8;2020;Other: Industries;2950000;2020;
+519;City of Yokohama;2017;4;2020;Other: Energy Industries;3680000;2020;
+520;City of Yokohama;2017;50;2020;Transport;4340000;2020;
+521;City of Yokohama;2017;2;2020;Waste;430000;2020;
+522;City of Yokohama;2017;;2020;Other: Absorption through forests and tree planting;;2020;
+523;City of Zaragoza;2017;20;2020;;;2020;
+524;Ciudad de Mendoza;2017;;;;;;
+525;CommunautÃ© urbaine du Grand Nancy;2017;20;2020;;;2020;
+526;Comune di Bolzano;2017;23;2020;;;2020;
+527;Comune di Ferrara;2017;25.5;2020;Total;;2020;
+528;Comune di Firenze;2017;21;2020;Total;2519980;2020;adopted in 2011
+529;Comune di Firenze;2017;35;2020;Total;2519980;2020;after the monitoring 2014
+530;Comune di Firenze;2017;40;2030;Total;2519980;2030;adopted in 2015 with SCP
+531;Comune di Firenze;2017;80;2050;Total;2519980;2050;adopted in 2015 with SCP
+532;Comune di Genova;2017;23;2020;;;2020;
+533;Comune di Milano;2017;20;2020;Total;7418000;2020;
+534;Comune di Monza;2017;24.8;2020;Total;541850;2020;
+535;Comune di Napoli;2017;25;2020;;;2020;
+536;Comune di Olbia;2017;25.23;2020;;;2020;
+537;Comune di Oristano;2017;;2020;Public buildings;;2020;
+538;Comune di Padova;2017;20;2020;Total;;2020;In addition to the emission-reducing activities mentioned below, the emission-reducing activities on local government level are part of the total reduction aim of 20%.
+539;Comune di Parma;2017;20;2020;Total;;2020;Targeting to continue monitoring by 2015
+540;Comune di Parma;2017;20;;Other: Total;6;;
+541;Comune di Piacenza;2017;20.4;2020;;;2020;The emission reduction is calculated with respect to the reference scenario (BAU) in 2020.Were considered only CO2 emissions related to the areas of competence of the Municipality of Piacenza.
+542;Comune di Ravenna;2017;23.9;2020;;;2020;This target is related to CO2 emission and was set in the Covenant of Mayors. The target is applied to the whole CO2 emissions including together Local Government Operations and Community.
+543;Comune di Udine;2017;20;2020;;;2020;
+544;Comune di Venezia;2017;23;2020;Total;1494744;2020;the baseline inventory is calculated under the Covenant of Mayors rules, it includes private and public buildings, private and public transports, public lighting. It excludes big ships, flight, power plants >20MW.
+545;District of Columbia;2017;80;2032;Total;10101895;2032;
+546;Distrito Metropolitano de Quito;2017;;2040;Stationary energy (buildings);1988306;2040;
+547;Distrito Metropolitano de Quito;2017;;2040;Transportation;3004296;2040;
+548;Distrito Metropolitano de Quito;2017;;2040;Waste;766587;2040;
+549;Distrito Metropolitano de Quito;2017;;2040;Residential buildings;897109;2040;
+550;Distrito Metropolitano de Quito;2017;;2040;Public buildings;453334;2040;
+551;Distrito Metropolitano de Quito;2017;;2040;Commercial buildings;0;2040;
+552;Distrito Metropolitano de Quito;2017;;;Industrial buildings;635118;;
+553;Distrito Metropolitano de Quito;2017;;;Wastewater;0;;
+554;Dublin City Council;2017;20;2020;;;2020;
+555;Egedal Municipality;2017;7;2020;Total;268000;2020;The municipality are increasing in terms of citizens, business, buldings,highways etc.
+556;Elsinore Municipality;2017;20;2020;Total;415000;2020;As a signatory of Covenant of Mayors (now combined with Compact of Mayors), Elsinore Municipality made a SEAP and committed itself to reduce the CO2eq emissions by at least 20 by 2020.
+557;Elsinore Municipality;2017;85;2030;Total;415000;2030;Maximum 1 ton CO2eq per citizen by 2030. That is a percentage reduction target of around 85.
+558;Elsinore Municipality;2017;100;2050;Total;415000;2050;Carbon neutral by 2050 at the latest.
+559;Fafe;2017;21;2020;Total;38991;2020;
+560;Fredensborg Kommune;2017;25;2020;Total;;2020;In 2016 and 2017 a methodology change to the GPC-stand has been on the way. The baseline year emissions will possible be converted to this standard.
+561;Fredensborg Kommune;2017;100;2050;Total;;2050;In 2016 and 2017 a methodology change to the GPC-stand has been on the way. The baseline year emissions will possible be converted to this standard.
+562;Frederikshavn Kommune;2017;100;2030;Total;547000;2030;Fossil energy consumption related to private cars represent 40% of total energy consumption in the transport sector in the municipality. Since Frederikshavn Municipality cannot affect the conversion of private cars fossil energy, neither fossil energy consumption of train operations, shipping and aircraft transportation, it is a political decision that there must be produced as much renewable energy in the municipality's geographical boundary that corresponds to fossil energy consumption of private cars, trains, shipping and aircraft transport.
+563;Free and Hanseatic City of Hamburg;2017;80;2050;;;2050;
+564;Free and Hanseatic City of Hamburg;2017;50;2030;;;2030;
+565;Gdansk;2017;21;2020;;;2020;
+566;Gemeente Groningen;2017;100;2035;Total;900000;2035;
+567;Gemeente Rotterdam;2017;25;2020;Total;23700000;2020;Same as national target
+568;Gladsaxe Kommune;2017;40;2020;Total;499740;2020;
+569;Glasgow City Council;2017;30;2020;;39873000;2020;
+570;Gobierno AutÃ³nomo Municipal de Tarija;2017;;;;;;
+571;Gobierno Municipal de LeÃ³n de los Aldamas;2017;20;2020;;;2020;Meta global de mitigaciÃ³n definida en el programa municipal de cambio climÃ¡tico.
+572;Seoul Metropolitan Government;2017;;;;;;
+573;Government of Hong Kong Special Administrative Region;2017;50;;Other: Total;0;;
+574;Government of Hong Kong Special Administrative Region;2017;65;;Other: Total;0;;
+575;Greater London Authority;2017;60;2025;Total;45050000;2025;
+576;Greater London Authority;2017;80;2050;Total;45050000;2050;Please note in the new integrated Environment Strategy we will set a target for Lonon to become a zero carbon city by 2050
+577;Greater Manchester;2017;48;2020;Total;21200000;2020;See Climate Change and Low Emission Strategiesâ€™Whole Place Implementation Plan for Greater Manchester(2016-2020) (attached for detailed actions.
+578;Hoeje-Taastrup Kommune;2017;95;2050;Total;312026;2050;
+579;HÃ¸rsholm Kommune;2017;20;2020;;;2020;
+580;Hsinchu City Government;2017;6;2018;Total;805953;2018;
+581;Hsinchu City Government;2017;12;2021;Total;805953;2021;
+582;Hsinchu City Government;2017;17;2026;Total;805953;2026;
+583;Hsinchu County Government;2017;5;2020;;;2020;
+584;Hsinchu County Government;2017;10;2025;;;2025;
+585;Iskandar Regional Development Authority;2017;58;;Other:;11;;
+586;Kaohsiung City Government;2017;;2020;Stationary energy (buildings);67326998;2020;
+587;Landeshauptstadt Magdeburg;2017;95;2050;;;2050;GHG sources towhich the target applies:CO2-City-wideSolutions of the municipal council
+588;Landeshauptstadt Magdeburg;2017;86;2050;;;2050;GHG sources towhich the target applies:CO2-City-wideSolutions of the municipal council
+589;Lejre Kommune;2017;30;2020;;;2020;
+590;Los Altos Hills;2017;30;2025;;;2025;Not yet approved by town council. Our prior target was 30% below 2005 levels by 2015, and we achieved 15%.
+591;MalmÃ¶ Stad;2017;;;;;;
+592;Metropolitan Municipality of Lima;2017;;2025;Waste;3093113;2025;
+593;Middelfart Kommune;2017;;2025;Buildings;70365;2025;
+594;Middelfart Kommune;2017;;2025;Transport;104276;2025;
+595;Middelfart Kommune;2017;50;2025;Total;362234;2025;
+596;Municipalidad de Magdalena del Mar;2017;30;2030;;;2030;
+597;Municipalidad de Providencia;2017;;;;;;
+598;Municipalidad de San Isidro (Argentina);2017;;;;;;
+599;Municipalidad de San Isidro (Argentina);2017;;;;;;
+600;Municipalidad de San Isidro (Argentina);2017;;;;;;
+601;Municipalidad de San Isidro (Lima);2017;;2020;Stationary energy (buildings);171169.05;2020;
+602;Municipalidad de San Isidro (Lima);2017;;Other:;Transportation;61438.26;Other:;
+603;Municipalidad de San Isidro (Lima);2017;;2020;Waste;110623.19;2020;
+604;Municipality of Arendal;2017;76;;Other: Total;;;
+605;Municipality of Belo Horizonte;2017;20;2030;Total;3.2;2030;
+606;Municipality of Cainta;2017;10;2016;Other: Energy;299945;2016;
+607;Municipality of Cainta;2017;15;2016;Waste;90271;2016;
+608;Municipality of Cainta;2017;5;2016;Other: Agriculture;174;2016;Diversion of agricultural land to industrial, commercial and residential.
+609;Municipality of Cainta;2017;20;2016;Transport;123940;2016;
+610;Municipality of Cainta;2017;20;;Stationary energy (buildings);53990;;
+611;Municipality of Cainta;2017;50;;Waste;30336;;
+612;Municipality of Cainta;2017;0;;Other: Agriculture;0;;
+613;Municipality of Cainta;2017;30;;Transportation;29758;;
+614;Municipality of Cainta;2017;;Other: 2018;Stationary energy (buildings);269951;Other: 2018;
+615;Municipality of Cainta;2017;;Other: 2018;Transportation;99192;Other: 2018;
+616;Municipality of Cainta;2017;;Other:;Waste;7673;Other:;
+617;Municipality of Recife;2017;11.28;2020;Total;3120425;2020;2012 was used as a baseline year to extrapolate the next years total GHG emissons. In this way, the 2020 GHG emissions reference scenario is 4.093.521 tCO2e, and the absolute reduction (11.28%) will be of 461.767 tCO2e.
+618;Municipality of Recife;2017;24.6;2030;Total;3120425;2030;2012 was used as a baseline year to extrapolate the next years total GHG emissons. In this way, the 2030 GHG emissions reference scenario 5776965 tCO2e, and the absolute reduction (24.60%) will be of 1421136 tCO2e.
+619;Municipality of Recife;2017;19.62;2040;Total;3120425;2040;2012 was used as a baseline year to extrapolate the next years total GHG emissons. In this way, the 2040 GHG emissions reference scenario is 8272718 tCO2e, and the absolute reduction (19.62%) will be of 1623344 tCO2e. It is important to note that from 2030, the impact of the GHG Emission Reduction Plan loses efficiency, as many of the actions reach their greatest potential before that date. Thus, in a few years, it is necessary to update the GHG Emission Reduction Plan, mainly in the transportation sector.
+620;Municipality of Recife;2017;;2040;Transportation;2038873;2040;
+621;Municipality of Recife;2017;;2040;Industrial buildings;151939;2040;
+622;Municipality of Recife;2017;;2040;Commercial buildings;115167;2040;
+623;Municipality of Recife;2017;;2040;Residential buildings;202164;2040;
+624;Municipality of Recife;2017;;2040;Waste;601390;2040;
+625;MunicÃ­pio de Braga;2017;20;2020;Total;;2020;Target according to the Covenant of Mayors
+626;MunicÃ­pio de GuimarÃ£es;2017;20;2020;Total;146651;2020;
+627;MunicÃ­pio de Moita;2017;20;2020;;;2020;
+628;New Taipei City Government;2017;25;2030;Other: Stationary energy (buildings);6449472;2030;
+629;New Taipei City Government;2017;25;2030;Other: Industrial buildings;7024594;2030;
+630;New Taipei City Government;2017;25;2030;Transport;4807477;2030;
+631;New Taipei City Government;2017;25;2030;Waste;510068;2030;
+632;New York City;2017;40;2030;Total;61060000;2030;
+633;New York City;2017;80;2050;Total;61060000;2050;
+634;Pasig City Government;2017;10;2020;Total;;2020;
+635;Pingtung County Government;2017;30;2030;;;2030;Pingtung County set up the GHG emission reduction goal, decreasing 30% by 2030 compared with the emission in 2013.
+636;Prefeitura de CuiabÃ¡;2017;;;;;;
+637;Prefeitura de FlorianÃ³polis;2017;42;2020;;;2020;low carbon agriculture, implementation of green infrastructure, reduction in energy, consumption, sanitation, reducing fuel consumption
+638;Prefeitura de Palmas;2017;;;;;;
+639;Prefeitura do Rio de Janeiro;2017;20;2020;Total;11402180;2020;"Target established in the municipal law that created the ""Municipal Climate Change and Sustainable Development Policy"" (5428/2011)."
+640;Regional Municipality of Durham;2017;5;2015;Total;5021342;2015;Not sector-specific
+641;Regional Municipality of Durham;2017;20;2020;Total;5021342;2020;
+642;Regional Municipality of Durham;2017;80;2050;Total;5021342;2050;
+643;Riga City;2017;54;2020;Total;4295;2020;(Thousand tonnes) Regarding Sustainable Energy Action Plan 2014-2020
+644;RingkÃ¸bing-Skjern Kommune;2017;100;2020;Total;491364;2020;"http://www.energi2020.dk/english, See information given in ""My Covenant for Climate and Energy"""
+645;Salt Lake City;2017;80;2040;;4943904;2040;
+646;SantarÃ©m;2017;21;2020;Total;337112;2020;
+647;Singapore Government;2017;36;2030;Other: Nation-wide;0.18;2030;As part of the Paris Agreement, Singapore pledged to reduce our emissions intensity by 36% below 2005 levels by 2030 and to stabilise our emissions with the aim of peaking around 2030
+648;Sonderborg Kommune;2017;25;2015;;4763894;2015;
+649;Sonderborg Kommune;2017;50;2020;;4763894;2020;
+650;Sonderborg Kommune;2017;100;2029;;4763894;2029;
+651;Stadt Heidelberg;2017;95;2050;Total;915000;2050;
+652;Stadt ZÃ¼rich;2017;28;2020;Total;;2020;The baseline emission and the target emission are measured in tonnes CO2e per person per year.Target for 2050: 1.0 tonnes CO2e per person (18% of 2005)Target for 2035: 2.5 tonnes CO2e per person (45% of 2005)Target for 2020: 4.0 tonnes CO2e per person (72% of 2005)
+653;Stadt ZÃ¼rich;2017;55;2035;Total;;2035;
+654;Stadt ZÃ¼rich;2017;82;2050;Total;;2050;
+655;Taichung City Government;2017;10;2022;Total;;2022;
+656;Tainan City Government;2017;50;2050;Total;19510422;2050;
+657;Tainan City Government;2017;20;2030;Total;19510422;2030;
+658;Taipei City Government;2017;25;2030;Total;13108260;2030;
+659;Taipei City Government;2017;50;2050;Total;13108260;2050;
+660;Taipei City Government;2017;;;;;;
+661;Taoyuan City Government;2017;50;2050;Total;30474326;2050;In accordance with Central Government policy
+662;TarnÃ³w;2017;8.46;2020;;;2020;Data based on plan mentioned in 7.1. a - row 3
+663;Tartu City Council;2017;;;;;;
+664;Tbilisi City;2017;24;2020;;;2020;
+665;Tel Aviv-Yafo Municipality;2017;20;2020;;;2020;Underlying assumption that government policies would align with city targets. However government targets were BAU based.
+666;The Hague;2017;30;2020;Total;3000000;2020;According to RIS180175a Klimaatplan Den Haag, Bijlage 1 De Haagse klimaatopgave in cijfers, and having as 1990 as the base year when CO2 emissions were almost 3000 kton, a minimum of 900 kton should be reduced by 2020 to achieve the 30% reduction target. In 2009 the CO2 emissions amounted to approximately 2700 kton, a reduction of 300 kton since 1990. In order to achieve the 2020 target, 600 kton should be reduced in the next years.
+667;The Hague;2017;100;2040;Total;3000000;2040;
+668;Tokyo Metropolitan Government;2017;30;2030;Total;62100000;2030;
+669;Torres Vedras Municipality;2017;29;2020;;;2020;Torres Vedras SEAP is an integrated plan to reduce emissions of the community and local government operations, the amount provided for emission reduction is a global value. In the plan are set 61 actions for the community and the local government operations.
+670;Town of Ajax, ON;2017;6;2020;Total;521620;2020;
+671;Town of Blacksburg;2017;80;2050;Other: Public;276411;2050;We are undertaking an 80% reduction in community-wide emissions below 1990 levels by 2050. This equates to a goal of roughly 55,297 metric tonnes of CO2e by 2050. The sectors for which emissions were measured were: residential, commercial, industrial, municipal and transportation.  There are strategies addressing each of these sectors in the resulting plan.  There are a handful of additional sectors that were included in the plan even though they were not part of our initial GHG inventory.  These include: food, waste & recycling, land use, and clean energy.
+672;Town of Vail, CO;2017;20;2020;;;2020;
+673;Village of Kadiovacik;2017;;;;;;
+674;Ville de Kinshasa;2017;;;;;;
+675;Ville de Monaco;2017;30;2020;;;2020;Kyoto Protocol - Second period
+676;Ville de Monaco;2017;22;2020;;;2020;Kyoto Protocol - QUELRO 2012-2020
+677;Ville de Montreal;2017;30;2020;Total;14786;2020; Baseline emissions have been updated. Please refer to 2013 city-wide inventory produced in 2016 (http://ville.montreal.qc.ca/pls/portal/docs/PAGE/ENVIRO_FR/MEDIA/DOCUMENTS/invent_ges_collectivite_2013_fr.PDF)
+678;Ville de Nyon;2017;46;;Stationary energy (buildings);3;;
+679;Ville de Salaberry-de-Valleyfield;2017;20;2020;;;2020;
+680;Vilnius City Municipality;2017;26.2;2020;Total;1734000;2020;this target is set under SEP (Covenant of Mayors methodology).
+681;Wellington City Council;2017;10;2020;Total;1105654;2020;
+682;Wellington City Council;2017;40;2030;Total;1105654;2030;
+683;Wellington City Council;2017;65;2040;Total;1105654;2040;
+684;Wellington City Council;2017;80;2050;Total;1105654;2050;
+685;Wellington City Council;2017;80;2050;Other: Corporate;92832;2050;
+686;Municipalidad de Yala;2017;;;;;;

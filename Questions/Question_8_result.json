@@ -1,0 +1,613 @@
+﻿[
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1423,
+      "start": 7113,
+      "end": 1915,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1423",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1915"
+    },
+    "related": {
+      "identity": 1915,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "NULL",
+        "target_date": "2050",
+        "year": 2017,
+        "baseline_year": "2050",
+        "reduction_id": 454,
+        "target_reduction": 75,
+        "organisation_name": "City of Paris",
+        "baseline": 6259429,
+        "sector": "Total"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1915"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1319,
+      "start": 7113,
+      "end": 1547,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1319",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1547"
+    },
+    "related": {
+      "identity": 1547,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "To respect the European objectives by 2020 and to decrease overall emissions by 75% in 2050 compared with 2004",
+        "target_date": "2020",
+        "year": 2016,
+        "baseline_year": "2004",
+        "reduction_id": 86,
+        "target_reduction": 25,
+        "organisation_name": "City of Paris",
+        "baseline": 25000000,
+        "sector": "Total"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1547"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1321,
+      "start": 7113,
+      "end": 1549,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1321",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1549"
+    },
+    "related": {
+      "identity": 1549,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "Signed agreement on Act2 of Covenant of Mayors",
+        "target_date": "2030",
+        "year": 2016,
+        "baseline_year": "2004",
+        "reduction_id": 88,
+        "target_reduction": 40,
+        "organisation_name": "City of Paris",
+        "baseline": 6200000,
+        "sector": "Total"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1549"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1424,
+      "start": 7113,
+      "end": 1916,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1424",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1916"
+    },
+    "related": {
+      "identity": 1916,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "NULL",
+        "target_date": "2030",
+        "year": 2017,
+        "baseline_year": "2030",
+        "reduction_id": 455,
+        "target_reduction": 40,
+        "organisation_name": "City of Paris",
+        "baseline": 6259429,
+        "sector": "Buildings"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1916"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1320,
+      "start": 7113,
+      "end": 1548,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1320",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1548"
+    },
+    "related": {
+      "identity": 1548,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "NULL",
+        "target_date": "2050",
+        "year": 2016,
+        "baseline_year": "2004",
+        "reduction_id": 87,
+        "target_reduction": 75,
+        "organisation_name": "City of Paris",
+        "baseline": 25000000,
+        "sector": "Total"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1548"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1422,
+      "start": 7113,
+      "end": 1914,
+      "type": "HAS_REDUCTION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1422",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1914"
+    },
+    "related": {
+      "identity": 1914,
+      "labels": [
+        "Reduction"
+      ],
+      "properties": {
+        "comments": "to respect the european objectives by 2020",
+        "target_date": "2020",
+        "year": 2017,
+        "baseline_year": "2020",
+        "reduction_id": 453,
+        "target_reduction": 25,
+        "organisation_name": "City of Paris",
+        "baseline": 6259429,
+        "sector": "Total"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1914"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1167,
+      "start": 7113,
+      "end": 1037,
+      "type": "HAS_POPULATION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1167",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1037"
+    },
+    "related": {
+      "identity": 1037,
+      "labels": [
+        "Population"
+      ],
+      "properties": {
+        "population_id": 1302,
+        "population_year": "2022",
+        "organisation_name": "City of Paris",
+        "population": 2145906
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1037"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 1208,
+      "start": 7113,
+      "end": 1155,
+      "type": "HAS_POPULATION",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:1208",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1155"
+    },
+    "related": {
+      "identity": 1155,
+      "labels": [
+        "Population"
+      ],
+      "properties": {
+        "population_id": 1543,
+        "population_year": "2015",
+        "organisation_name": "City of Paris",
+        "population": 2265886
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:1155"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 727,
+      "start": 7113,
+      "end": 124,
+      "type": "MEASURED_BY",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:727",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:124"
+    },
+    "related": {
+      "identity": 124,
+      "labels": [
+        "Emission"
+      ],
+      "properties": {
+        "total_emissions": 5489249.0,
+        "comments": "NULL",
+        "year_of_GDP": 2015,
+        "year": 2017,
+        "scope_2": 1836421,
+        "organisation_name": "City of Paris",
+        "scope_1": 3359242,
+        "GDP_source": "national governement",
+        "emission_id": 213,
+        "GDP": "2,56E+11",
+        "reason_for_change": "Thanks to Paris' climate change policy especially on sustainable mobility, social housing retrofitting, etc...",
+        "GDP_currency": "EUR     Euro",
+        "change_from_last_year": "Decreased",
+        "gases_included": "NULL"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:124"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 726,
+      "start": 7113,
+      "end": 49,
+      "type": "MEASURED_BY",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:726",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:49"
+    },
+    "related": {
+      "identity": 49,
+      "labels": [
+        "Emission"
+      ],
+      "properties": {
+        "total_emissions": 5195663.0,
+        "comments": "NULL",
+        "year_of_GDP": 2013,
+        "year": 2016,
+        "scope_2": 1836421,
+        "organisation_name": "City of Paris",
+        "scope_1": 3359242,
+        "GDP_source": "INSEE",
+        "emission_id": 138,
+        "GDP": "1,53E+11",
+        "reason_for_change": "Thanks to Paris' climate change policy especially on sustainable mobility, social housing retrofitting, etc...",
+        "GDP_currency": "EUR Euro",
+        "change_from_last_year": "Decreased",
+        "gases_included": "CO2 PFCs CH4 SF6 N2O NF3 HFCs"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:49"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 588,
+      "start": 7113,
+      "end": 7133,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:588",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7133"
+    },
+    "related": {
+      "identity": 7133,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "country_name": "France",
+        "country_location": "(46.227638, 2.213749)",
+        "region_name": "Europe",
+        "country_id": 5
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7133"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 589,
+      "start": 7113,
+      "end": 7225,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:589",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7225"
+    },
+    "related": {
+      "identity": 7225,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "country_name": "France",
+        "country_location": "NULL",
+        "region_name": "Europe",
+        "country_id": 97
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7225"
+    }
+  },
+  {
+    "c": {
+      "identity": 7113,
+      "labels": [
+        "City"
+      ],
+      "properties": {
+        "organisation_id": 31175,
+        "c40_city": "true",
+        "city_name": "Paris",
+        "country_name": "France",
+        "gcom_city": "true",
+        "organisation_name": "City of Paris",
+        "city_location": "POINT (2.35222 48.8566)"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "r": {
+      "identity": 50,
+      "start": 6605,
+      "end": 7113,
+      "type": "RELATED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:de713ae9-8b1b-49dd-a350-0924cbeacff2:50",
+      "startNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:6605",
+      "endNodeElementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:7113"
+    },
+    "related": {
+      "identity": 6605,
+      "labels": [
+        "Assessment"
+      ],
+      "properties": {
+        "assessment": "ParisInTheFaceOfClimateChange_EN.pdf, ParisInTheFaceOfClimateChange_EN_sumup.pdf",
+        "access": "public",
+        "assessment_id": 1302,
+        "organisation_name": "City of Paris",
+        "year_of_publication": "2021",
+        "boundary_of_assessment": "Larger - covers the whole jurisdiction and adjoining areas, please explain additions: Paris carbon footprint: inner and outer emissions related"
+      },
+      "elementId": "4:de713ae9-8b1b-49dd-a350-0924cbeacff2:6605"
+    }
+  }
+]

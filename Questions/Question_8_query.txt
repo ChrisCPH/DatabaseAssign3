@@ -1,0 +1,2 @@
+MATCH (c:City {city_name: 'Paris'})-[r]-(related)
+RETURN c, r, related

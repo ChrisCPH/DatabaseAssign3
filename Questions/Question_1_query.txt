@@ -1,0 +1,2 @@
+MATCH (c:City {city_name: 'Paris'})-[:MEASURED_BY]->(e:Emission)
+RETURN c.city_name AS CityName, e.year AS EmissionYear, e.total_emissions AS TotalEmissions

@@ -1,0 +1,5 @@
+MATCH (c:City)-[:MEASURED_BY]->(e:Emission)
+WITH c.city_name AS CityName, e.total_emissions AS TotalEmissions
+ORDER BY TotalEmissions DESC
+LIMIT 1
+RETURN CityName, TotalEmissions

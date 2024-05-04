@@ -1,0 +1,15 @@
+// Run these one at a time
+
+// Highest emission
+MATCH (c:City)-[:MEASURED_BY]->(e:Emission)
+WITH c, SUM(e.total_emissions) AS TotalEmissions
+ORDER BY TotalEmissions DESC
+LIMIT 1
+RETURN c.city_name AS CityWithHighestEmissions, TotalEmissions
+
+// Highest population
+MATCH (c:City)-[:HAS_POPULATION]->(p:Population)
+WITH c, MAX(p.population) AS MaxPopulation
+ORDER BY MaxPopulation DESC
+LIMIT 1
+RETURN c.city_name AS CityWithHighestPopulation, MaxPopulation

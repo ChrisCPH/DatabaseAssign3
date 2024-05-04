@@ -1,0 +1,3 @@
+MATCH (c:City)
+WHERE c.gcom_city = 'false' AND c.c40_city = 'false' AND c.city_name <> "NULL"
+RETURN c.city_name AS CityName, c.gcom_city AS GCoM, c.c40_city AS C40

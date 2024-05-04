@@ -1,0 +1,108 @@
+﻿CountryID;CountryName;CountryLocation;RegionName
+1;Canada;(56.130366, -106.346771);North America
+2;United Kingdom;(55.378051, -3.435973);Europe
+3;USA;(37.09024, -95.712891);North America
+4;Switzerland;(46.818188, 8.227512);Europe
+5;France;(46.227638, 2.213749);Europe
+6;South Korea;(35.907757, 127.766922);East Asia
+7;Australia;(-25.274398, 133.775136);Oceania
+8;Poland;(51.919438, 19.145136);Europe
+9;South Africa;(-30.559482, 22.937506);Africa
+10;Finland;(61.92411, 25.748151);Europe
+11;Netherlands;(52.132633, 5.291266);Europe
+12;Taiwan;(23.69781, 120.960515);East Asia
+13;Bolivia;(-16.290154, -63.588653);Latin America
+14;Philippines;(12.879721, 121.774017);Southeast Asia
+15;Germany;(51.165691, 10.451526);Europe
+16;Lithuania;(55.169438, 23.881275);Europe
+17;Portugal;(39.399872, -8.224454);Europe
+18;Ecuador;(-1.831239, -78.183406);Latin America
+19;Spain;(40.463667, -3.74922);Europe
+20;Norway;(60.472024, 8.468946);Europe
+21;Italy;(41.87194, 12.56738);Europe
+22;Mexico;(23.634501, -102.552784);Latin America
+23;Ethiopia;(9.145, 40.489673);Europe
+24;Ireland;(53.41291, -8.24389);Europe
+25;Slovenia;(46.151241, 14.995463);Europe
+26;Argentina;(-38.416097, -63.616672);Latin America
+27;Japan;(36.204824, 138.252924);East Asia
+28;Sweden;(60.128161, 18.643501);Europe
+29;New Zealand;(-40.900557, 174.885971);Oceania
+30;Iceland;(64.963051, -19.020835);Europe
+31;Hong Kong;(22.396428, 114.109497);East Asia
+32;Venezuela;(6.42375, -66.58973);Latin America
+33;Turkey;(38.963745, 35.243322);Europe
+34;Jordan;(30.585164, 36.238414);Middle East
+35;Greece;(39.074208, 21.824312);Europe
+36;Nigeria;(9.081999, 8.675277);Africa
+37;Georgia;(40.786168, -81.288192);Europe
+38;Monaco;(43.738418, 7.424616);Europe
+39;Singapore;(1.352083, 103.819836);East Asia
+40;Romania;(45.943161, 24.96676);Europe
+41;Russia;(61.52401, 105.318756);Europe
+42;Vietnam;(14.058324, 108.277199);South Asia and Oceania
+43;Colombia;(4.5709, -74.2973);Latin America
+44;Malaysia;(4.210484, 101.975766);South Asia and Oceania
+45;Israel;(31.046051, 34.851612);South and West Asia
+46;State of Palestine;(31.9522, 35.2332);South and West Asia
+47;Bulgaria;(42.697708, 23.321868);Europe
+48;Indonesia;(-6.121435, 106.774124);South Asia and Oceania
+49;Albania;(41.153332, 20.168331);Europe
+50;Peru;(-9.19, -75.0152);Latin America
+51;Denmark;(56.2639, 9.5018);Europe
+52;Comoros;(-11.6455, 43.3333);Africa
+53;Gibraltar;(36.140751, -5.353585);Europe
+54;Thailand;(15.870032, 100.992541);South Asia and Oceania
+55;India;(20.5937, 78.9629);South and West Asia
+56;Montenegro;(42.708678, 19.37439);Europe
+57;China;(35.86166, 104.195397);East Asia
+58;Latvia;(56.8796, 24.6032);Europe
+59;Estonia;(58.5953, 25.0136);Europe
+60;Democratic Republic of Congo;(-4.038333, 21.758664);Africa
+61;Brazil;;Latin America
+62;Chile;;Latin America
+63;Japan;;East Asia
+64;Costa Rica;;Latin America
+65;Cameroon;;Africa
+66;Malawi;;Africa
+67;South Africa;;Africa
+68;Germany;;Europe
+69;Turkey;;Europe
+70;East Asia;;East Asia
+71;Spain;;Europe
+72;CÃ´te d'Ivoire;;Africa
+73;Republic of Korea;;East Asia
+74;Guatemala;;Latin America
+75;Croatia;;Europe
+76;Ecuador;;Latin America
+77;Jordan;;Middle East
+78;Ireland;;Europe
+79;Netherlands;;Europe
+80;Kenya;;Africa
+81;Cuba;;Latin America
+82;Ethiopia;;Africa
+83;Bosnia & Herzegovina;;Europe
+84;United Republic of Tanzania;;Africa
+85;Poland;;Europe
+86;Sierra Leone;;Africa
+87;Czechia;;Europe
+88;Uruguay;;Latin America
+89;Switzerland;;Europe
+90;Senegal;;Africa
+91;Belgium;;Europe
+92;Mozambique;;Africa
+93;Iceland;;Europe
+94;Eswatini;;Africa
+95;Uganda;;Africa
+96;Lithuania;;Europe
+97;France;;Europe
+98;Madagascar;;Africa
+99;Romania;;Europe
+100;Monaco;;Europe
+101;Burundi;;Africa
+102;Morocco;;Africa
+103;Albania;;Europe
+104;United Arab Emirates;;Middle East
+105;Ghana;;Africa
+106;Togo;;Africa
+107;Namibia;;Africa

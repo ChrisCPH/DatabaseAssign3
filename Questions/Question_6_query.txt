@@ -1,0 +1,7 @@
+MATCH (e:Emission)
+WHERE e.year = 2016
+RETURN SUM(e.total_emissions) AS TotalEmissions2016
+
+MATCH (e:Emission)
+WHERE e.year = 2017
+RETURN SUM(e.total_emissions) AS TotalEmissions2017

@@ -1,0 +1,10 @@
+﻿[
+  {
+    "CityWithHighestPopulation": "Lagos",
+    "MaxPopulation": 24600000
+  },
+  {
+    "CityWithHighestEmissions": "Tokyo",
+    "TotalEmissions": 140858403.0
+  }
+]

@@ -1,0 +1,2 @@
+MATCH (c:City {city_name: 'Kyoto'})
+RETURN c.city_name AS CityName, c.gcom_city AS GCoM, c.c40_city AS C40

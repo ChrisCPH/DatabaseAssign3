@@ -1,0 +1,15 @@
+MATCH (c:City)-[:MEASURED_BY]->(e:Emission)
+WHERE e.year IN [2017, 2016]
+WITH c, e.year AS Year, SUM(e.total_emissions) AS TotalEmissions
+ORDER BY c.city_name, Year
+WITH c,
+     COLLECT({year: Year, emissions: TotalEmissions}) AS YearlyEmissions
+WITH c,
+     YearlyEmissions[0] AS Emissions2016,
+     YearlyEmissions[1] AS Emissions2017
+WHERE Emissions2016.emissions > Emissions2017.emissions
+RETURN c.city_name AS CityName,
+       Emissions2016.emissions AS Emissions2016,
+       Emissions2017.emissions AS Emissions2017,
+       Emissions2017.emissions - Emissions2016.emissions AS EmissionsDecrease
+ORDER BY EmissionsDecrease DESC
